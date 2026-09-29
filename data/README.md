@@ -34,7 +34,12 @@
    npm run build
    ```
    `npm run build` 会先跑 `scripts/build-data.mjs`（校验、去重、聚簇、日报、滚动 300 条），再做 TS + Vite 构建。**构建必须成功才算完成**；失败必须修复后重跑。
-7. 构建成功后写 git 提交：`git add -A && git commit -m "data: YYYY-MM-DD daily update"`。若已配置远程仓库，执行 `git push`。
+7. 构建成功后写 git 提交并发布：
+   ```bash
+   git add -A && git commit -m "data: YYYY-MM-DD daily update"
+   python scripts/push-api.py
+   ```
+   **注意：不要用 `git push`**——本机网络对 git 协议不稳定，必须用 `scripts/push-api.py`（走 GitHub REST API，自带重试；令牌从 gh CLI 配置读取，代理缺省 127.0.0.1:7897）。推送成功后 GitHub Actions 会自动构建并发布到 https://aran0621.github.io/bionic-intel/ ，全程约 1-2 分钟。若推送因网络失败，记录后正常结束即可，次日任务会携带累积变更重试。
 8. 若是补跑任务，无论成败都要把当天日期追加写入 `data/backfill-log.json`（JSON 数组，元素为 `YYYY-MM-DD`，没有就新建），防止一天内反复补跑。
 
 ## 检索 query 清单（每日至少选 10 个）
