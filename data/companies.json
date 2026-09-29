@@ -1,0 +1,202 @@
+[
+  {
+    "id": "aheadform",
+    "name": "首形科技",
+    "nameEn": "AheadForm",
+    "region": "中国 · 上海",
+    "founded": "2024",
+    "tier": "重点追踪",
+    "focus": "超仿生人脸机器人 / 情绪基座模型",
+    "products": ["Origin F1 桌面级仿生交互平台", "起源 M1", "精灵·铱", "精灵·璇", "Emo（学术原型）"],
+    "website": "https://www.aheadform.com",
+    "channels": [
+      { "label": "官网", "url": "https://www.aheadform.com" },
+      { "label": "精灵·璇产品页", "url": "https://www.aheadform.com/zh/elf-xuan" }
+    ],
+    "keywords": ["首形", "AheadForm", "Emo", "Origin F1", "精灵"],
+    "blurb": "哥大 Hod Lipson 实验室血统，专攻「先把一张脸做好」：200+ 微表情节点、0.5mm 精度硅胶皮肤、情绪基座模型 CharacterMind，累计 7 轮融资。"
+  },
+  {
+    "id": "ubtech",
+    "name": "优必选（仿生线）",
+    "nameEn": "UBTECH · UWORLD",
+    "region": "中国 · 深圳",
+    "founded": "2012",
+    "tier": "重点追踪",
+    "focus": "全尺寸超仿生陪伴机器人",
+    "products": ["优世界 U1 Lite / Pro / Ultra", "Walker 系列（工业线，不作重点）"],
+    "website": "https://www.ubtrobot.com",
+    "channels": [
+      { "label": "官网", "url": "https://www.ubtrobot.com" },
+      { "label": "公司简介页", "url": "https://www.ubtrobot.com/cn/about/company-profile" }
+    ],
+    "keywords": ["优必选", "UBTECH", "优世界", "UWORLD", "U1"],
+    "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。"
+  },
+  {
+    "id": "robonova",
+    "name": "RoboNova（一直在智能）",
+    "nameEn": "Robonova.i",
+    "region": "中国 · 深圳",
+    "founded": "2024",
+    "tier": "重点追踪",
+    "focus": "恒温情感陪伴机器人",
+    "products": ["Eva.i（苏妍）", "Stella（预告）", "Ember Vale（预告）"],
+    "website": "https://robonova.world",
+    "channels": [
+      { "label": "官网", "url": "https://robonova.world/" }
+    ],
+    "keywords": ["Robonova", "RoboNova", "Eva.i", "苏妍", "一直在智能"],
+    "blurb": "以 37℃ 恒定体温打出差异化：FPC 仿生电子皮肤、19 个触觉感应区、可拆卸摄像头隐私设计，预售价 6800-8000 美元，主打「第四种关系」。"
+  },
+  {
+    "id": "wmdoll",
+    "name": "金三智能 / 金三玩美",
+    "nameEn": "WMdoll",
+    "region": "中国 · 中山",
+    "founded": "2010",
+    "tier": "重点追踪",
+    "focus": "硅胶人偶 + AI 交互（MetaBox）",
+    "products": ["MetaBox AI 智能系列", "金三玩美实体娃娃"],
+    "website": null,
+    "channels": [],
+    "keywords": ["金三", "WMdoll", "MetaBox", "金三玩美", "金三智能"],
+    "blurb": "全球最大硅胶娃娃生产商（九成订单在海外），2024 年底推出接入大模型的 MetaBox 系列海外售罄；正与深圳仿生机器人公司联合开发带真实表情的新一代产品。"
+  },
+  {
+    "id": "droidup",
+    "name": "卓益得",
+    "nameEn": "DroidUp",
+    "region": "中国 · 上海",
+    "founded": "2021",
+    "tier": "重点追踪",
+    "focus": "完全仿生机器人 / 肌腱驱动",
+    "products": ["Moya", "睿娜 Rena", "行者系列 X01 / X02"],
+    "website": "https://www.droidup.com",
+    "channels": [
+      { "label": "官网", "url": "https://www.droidup.com" },
+      { "label": "关于我们", "url": "https://www.droidup.com/about" },
+      { "label": "产品系列", "url": "https://www.droidup.com/product" }
+    ],
+    "keywords": ["卓益得", "DroidUp", "Moya", "睿娜", "行者"],
+    "blurb": "肌腱绳驱路线坚守十余年（对标 1X），2026 年推出全球首款完全仿生具身智能机器人 Moya：恒温皮肤 32-36℃、步态相似度 92%，首批限量 50 台、120-150 万元。"
+  },
+  {
+    "id": "noetix",
+    "name": "松延动力",
+    "nameEn": "Noetix Robotics",
+    "region": "中国 · 北京",
+    "founded": "2023",
+    "tier": "重点追踪",
+    "focus": "仿生人脸设备 + 高动态人形",
+    "products": ["小诺（仿生机器人）", "小月（眼神交互仿生机器人）", "Hobbs 仿生人脸设备", "N2 / E1 / Dora"],
+    "website": "https://noetixrobotics.com",
+    "channels": [
+      { "label": "官网", "url": "https://noetixrobotics.com/" },
+      { "label": "微博 @NOETIX松延动力", "url": "https://www.sina.cn/media/7994329619" }
+    ],
+    "keywords": ["松延动力", "Noetix", "小诺", "小月", "Hobbs", "小布米", "Bumi"],
+    "blurb": "清华系团队，N2 以 3.99 万低价+连续后空翻破圈，仿生命线「小诺」（32 面部自由度、铂金硅胶）曾登春晚；「小月」001 号京东首拍 11.08 万元。"
+  },
+  {
+    "id": "digit",
+    "name": "数字华夏",
+    "nameEn": "DIGIT",
+    "region": "中国 · 深圳",
+    "founded": "2024",
+    "tier": "重点追踪",
+    "focus": "B 端仿人交互机器人",
+    "products": ["夏澜 S02 / R03", "夏起", "星行侠", "卫小鹿"],
+    "website": "https://www.digit.com.cn",
+    "channels": [
+      { "label": "官网", "url": "https://www.digit.com.cn" },
+      { "label": "产品页", "url": "https://www.digit.com.cn/Products.html" }
+    ],
+    "keywords": ["数字华夏", "夏澜", "夏起", "星行侠", "DIGIT"],
+    "blurb": "「有温度的人形机器人」B 端路线代表：夏澜系列 29+ 主动自由度、自研情商模型与「巨号」交互平台，客户覆盖政务、银行、电网、央国企，成立一年揽 4 亿元订单。"
+  },
+  {
+    "id": "hanson",
+    "name": "Hanson Robotics",
+    "nameEn": "Hanson Robotics",
+    "region": "中国 · 香港",
+    "founded": "2007",
+    "tier": "重点追踪",
+    "focus": "表情机器人鼻祖 / Sophia 平台",
+    "products": ["Sophia / Sophia Utility", "Grace（医疗）", "Little Sophia（众筹中）"],
+    "website": "https://www.hansonrobotics.com",
+    "channels": [
+      { "label": "官网", "url": "https://www.hansonrobotics.com" }
+    ],
+    "keywords": ["Hanson", "Sophia", "索菲亚", "Frubber"],
+    "blurb": "Sophia 之父 David Hanson 创立，Frubber 专利皮肤材料与面部 animatronics 曾定义赛道；2026 年官网改版转向「Sophia Utility」询价制平台，Little Sophia 量产仍未兑现。"
+  },
+  {
+    "id": "realbotix",
+    "name": "Realbotix",
+    "nameEn": "Realbotix (TSX-V: XBOT)",
+    "region": "美国 · 拉斯维加斯",
+    "founded": "2019",
+    "tier": "重点追踪",
+    "focus": "超逼真陪伴/服务人形机器人",
+    "products": ["Aria（F 系列）", "Melody（M 系列）", "David", "B 系列半身像"],
+    "website": "https://www.realbotix.com",
+    "channels": [
+      { "label": "产品站", "url": "https://www.realbotix.com" },
+      { "label": "公司与投资者站", "url": "https://www.realbotix.ai" }
+    ],
+    "keywords": ["Realbotix", "Aria", "Melody", "XBOT"],
+    "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。"
+  },
+  {
+    "id": "engineered-arts",
+    "name": "Engineered Arts",
+    "nameEn": "Engineered Arts",
+    "region": "英国 · 康沃尔",
+    "founded": "2004",
+    "tier": "重点追踪",
+    "focus": "社交表情人形机器人",
+    "products": ["Ameca（Gen 3）", "Mesmer", "RoboThespian", "Tritium OS"],
+    "website": "https://engineeredarts.co.uk",
+    "channels": [
+      { "label": "官网", "url": "https://engineeredarts.co.uk" }
+    ],
+    "keywords": ["Engineered Arts", "Ameca", "Mesmer", "Tritium"],
+    "blurb": "21 年表情机器人老兵：Ameca 以 25 个面部电机与 Tritium 云平台成为全球认知度最高的机器人面孔，部署 200+ 台于迪拜未来博物馆、Sphere 等，2024 年底完成 1000 万美元 A 轮。"
+  },
+  {
+    "id": "clone",
+    "name": "Clone Robotics",
+    "nameEn": "Clone Robotics",
+    "region": "美国 · 山景城（研发源于波兰）",
+    "founded": "2021",
+    "tier": "重点追踪",
+    "focus": "人造肌肉解剖学级仿生",
+    "products": ["Protoclone V1", "Clone Torso 3", "Clone Hand", "Clone Alpha（预售页）"],
+    "website": "https://clonerobotics.com",
+    "channels": [
+      { "label": "官网", "url": "https://clonerobotics.com" },
+      { "label": "Android 页面", "url": "https://clonerobotics.com/android" },
+      { "label": "X @clonerobotics", "url": "https://x.com/clonerobotics" }
+    ],
+    "keywords": ["Clone", "Protoclone", "Myofiber", "人造肌肉"],
+    "blurb": "唯一走 Myofiber 液压人造肌肉路线：复刻 206 块骨骼、1000+ 根肌纤维，目标 2 万美元级量产安卓；路线图：2026 底「外科级」躯干、2027 行走演示、2028 商用 Robo Butler。"
+  },
+  {
+    "id": "anywit",
+    "name": "无论科技",
+    "nameEn": "Anywit Robotics",
+    "region": "中国 · 合肥",
+    "founded": "2023",
+    "tier": "扩展关注",
+    "focus": "标准化表情头 / 情感交互引擎",
+    "products": ["Anni", "34 自由度表情头组件", "Animum 情感交互引擎"],
+    "website": "https://www.anywit.com",
+    "channels": [
+      { "label": "官网", "url": "https://www.anywit.com/zh" },
+      { "label": "关于我们", "url": "https://www.anywit.com/zh/company" }
+    ],
+    "keywords": ["无论科技", "Anywit", "Anni", "表情头"],
+    "blurb": "中科大「可佳/佳佳」团队出身，做表情交互的「卖水人」：34 自由度标准化表情头对标 Engineered Arts，一年内连获两轮（滴滴战投领投），2026 年目标成规模出货。"
+  }
+]

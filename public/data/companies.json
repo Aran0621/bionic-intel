@@ -1,0 +1,1095 @@
+[
+  {
+    "id": "aheadform",
+    "name": "首形科技",
+    "nameEn": "AheadForm",
+    "region": "中国 · 上海",
+    "founded": "2024",
+    "tier": "重点追踪",
+    "focus": "超仿生人脸机器人 / 情绪基座模型",
+    "products": [
+      "Origin F1 桌面级仿生交互平台",
+      "起源 M1",
+      "精灵·铱",
+      "精灵·璇",
+      "Emo（学术原型）"
+    ],
+    "website": "https://www.aheadform.com",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://www.aheadform.com"
+      },
+      {
+        "label": "精灵·璇产品页",
+        "url": "https://www.aheadform.com/zh/elf-xuan"
+      }
+    ],
+    "keywords": [
+      "首形",
+      "AheadForm",
+      "Emo",
+      "Origin F1",
+      "精灵"
+    ],
+    "blurb": "哥大 Hod Lipson 实验室血统，专攻「先把一张脸做好」：200+ 微表情节点、0.5mm 精度硅胶皮肤、情绪基座模型 CharacterMind，累计 7 轮融资。",
+    "timeline": [
+      {
+        "id": "2026-09-10-aheadform-elfxuan2-cs",
+        "date": "2026-09-10",
+        "title": "中证金牛座实探外滩大会：首形精灵·璇 2.0 礼服登台，演唱原创歌曲《未定义的关系》",
+        "source": "中国证券报·中证金牛座",
+        "sourceUrl": "https://jnzstatic.cs.com.cn/zzb/htmlInfo/132933.html",
+        "score": 83,
+        "eventId": "aheadform-elfxuan-2"
+      },
+      {
+        "id": "2026-07-25-aheadform-a2-tmtpost",
+        "date": "2026-07-25",
+        "title": "一款靠脸吃饭的机器人，让雷军连投两轮",
+        "source": "钛媒体",
+        "sourceUrl": "https://www.tmtpost.com/8078611.html",
+        "score": 82,
+        "eventId": "aheadform-a2"
+      },
+      {
+        "id": "2026-07-21-aheadform-a2-robotpro",
+        "date": "2026-07-21",
+        "title": "首形科技完成数亿元 A2 轮融资：中信金石与吉利资本领投，顺为超额追投",
+        "source": "机器人前瞻（公众号）",
+        "sourceUrl": "https://view.inews.qq.com/a/20260721A099TL00",
+        "score": 90,
+        "eventId": "aheadform-a2"
+      },
+      {
+        "id": "2026-07-21-aheadform-a2-sina",
+        "date": "2026-07-21",
+        "title": "一家做仿生人脸的公司刚拿了数亿元 A2 轮，三个月前才融完 A1",
+        "source": "新浪科技",
+        "sourceUrl": "https://www.sina.cn/news/detail/5323196949601677.html",
+        "score": 85,
+        "eventId": "aheadform-a2"
+      },
+      {
+        "id": "2026-07-18-aheadform-waic-xhby",
+        "date": "2026-07-18",
+        "title": "WAIC 现场：首形科技超仿生机器人亮相，200 个微表情节点「恐怖谷基本消失」",
+        "source": "新华报业·交汇点",
+        "sourceUrl": "https://www.xhby.net/content/s6a5b2472e4b0b0018d773863.html",
+        "score": 88,
+        "eventId": "aheadform-waic-2026"
+      },
+      {
+        "id": "2026-07-07-ubtech-u1-huxiu",
+        "date": "2026-07-07",
+        "title": "虎嗅：优必选跨界陪伴经济，把具身陪伴机器人的商业化瓶颈摆上了台面",
+        "source": "虎嗅",
+        "sourceUrl": "https://www.huxiu.com/article/4873294.html",
+        "score": 83,
+        "eventId": "ubtech-u1-debate"
+      },
+      {
+        "id": "2026-04-13-track-eefocus",
+        "date": "2026-04-13",
+        "title": "2026 年，仿生机器人卷到哪儿了？六家头部玩家路线全对比",
+        "source": "与非网",
+        "sourceUrl": "https://www.eefocus.com/article/1988561.html",
+        "score": 82,
+        "eventId": "track-map-2026"
+      },
+      {
+        "id": "2026-04-07-aheadform-a1-pedaily",
+        "date": "2026-04-07",
+        "title": "首形科技完成数亿元 A1 轮融资，资金投向情绪基座模型与仿生面部量产",
+        "source": "投资界",
+        "sourceUrl": "https://news.pedaily.cn/202604/562502.shtml",
+        "score": 80,
+        "eventId": "aheadform-a1"
+      },
+      {
+        "id": "2026-02-08-aheadform-elfxuan-official",
+        "date": "2026-02-08",
+        "title": "官方产品页：精灵·璇——面部超 30 自由度、硅胶皮肤精度 0.5mm 可现血管",
+        "source": "首形科技官网",
+        "sourceUrl": "https://www.aheadform.com/zh/elf-xuan",
+        "score": 76,
+        "eventId": "aheadform-elf-xuan"
+      },
+      {
+        "id": "2026-01-19-emo-science-robotics",
+        "date": "2026-01-19",
+        "title": "人形机器人告别面瘫脸：哥大 EMO 实现唇形与语音高度同步，登上 Science Robotics",
+        "source": "腾讯科技",
+        "sourceUrl": "https://news.qq.com/rain/a/20260119A01TFV00",
+        "score": 86,
+        "eventId": "emo-science-robotics"
+      }
+    ]
+  },
+  {
+    "id": "ubtech",
+    "name": "优必选（仿生线）",
+    "nameEn": "UBTECH · UWORLD",
+    "region": "中国 · 深圳",
+    "founded": "2012",
+    "tier": "重点追踪",
+    "focus": "全尺寸超仿生陪伴机器人",
+    "products": [
+      "优世界 U1 Lite / Pro / Ultra",
+      "Walker 系列（工业线，不作重点）"
+    ],
+    "website": "https://www.ubtrobot.com",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://www.ubtrobot.com"
+      },
+      {
+        "label": "公司简介页",
+        "url": "https://www.ubtrobot.com/cn/about/company-profile"
+      }
+    ],
+    "keywords": [
+      "优必选",
+      "UBTECH",
+      "优世界",
+      "UWORLD",
+      "U1"
+    ],
+    "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
+    "timeline": [
+      {
+        "id": "2026-09-28-ubtech-u1-delivery-163",
+        "date": "2026-09-28",
+        "title": "达摩财经：官方称「已开始交付」、店铺称延期至 11 月底，U1 交付罗生门发酵",
+        "source": "网易·达摩财经",
+        "sourceUrl": "https://www.163.com/dy/article/L7UVINSG0519MPBR.html",
+        "score": 82,
+        "eventId": "ubtech-u1-delivery"
+      },
+      {
+        "id": "2026-09-27-ubtech-u1-delivery-10jqka",
+        "date": "2026-09-27",
+        "title": "财闻独家：U1 官宣 9 月 16 日开启交付，天猫/京东客服却称 U1 Pro 延期至 11 月 30 日",
+        "source": "同花顺·财闻",
+        "sourceUrl": "https://m.10jqka.com.cn/20260927/c680289298.shtml",
+        "score": 87,
+        "eventId": "ubtech-u1-delivery"
+      },
+      {
+        "id": "2026-08-31-companion-compare-d1ev",
+        "date": "2026-08-31",
+        "title": "人形陪伴机器人横评：U1 订单破 1.3 万、Moya 限量 50 台、Eva.i 下探 5-6 万元",
+        "source": "第一电动网",
+        "sourceUrl": "https://d1ev.com/news/shichang/311861",
+        "score": 85,
+        "eventId": "companion-compare-2026"
+      },
+      {
+        "id": "2026-08-21-ubtech-wrc-zaker",
+        "date": "2026-08-21",
+        "title": "WRC 2026：优必选三大展区，超仿生人形机器人优世界 U1 成展会焦点",
+        "source": "太平洋科技（ZAKER）",
+        "sourceUrl": "https://app.myzaker.com/news/article.php?pk=6a89073eb15ec0340d44171b",
+        "score": 76,
+        "eventId": "ubtech-wrc-2026"
+      },
+      {
+        "id": "2026-07-07-ubtech-u1-huxiu",
+        "date": "2026-07-07",
+        "title": "虎嗅：优必选跨界陪伴经济，把具身陪伴机器人的商业化瓶颈摆上了台面",
+        "source": "虎嗅",
+        "sourceUrl": "https://www.huxiu.com/article/4873294.html",
+        "score": 83,
+        "eventId": "ubtech-u1-debate"
+      },
+      {
+        "id": "2026-07-07-ubtech-u1-p5w",
+        "date": "2026-07-07",
+        "title": "仿生机器人爆单超 1.3 万台：机器人开始「卖陪伴」了？",
+        "source": "全景网",
+        "sourceUrl": "https://www.p5w.net/roll/zqzx/202607/t20260707_6483550.htm",
+        "score": 80,
+        "eventId": "ubtech-u1-orders"
+      },
+      {
+        "id": "2026-07-05-ubtech-36kr-adult",
+        "date": "2026-07-05",
+        "title": "36氪：「乖乖女」优必选下海，陪伴机器人的尽头是成人服务？",
+        "source": "36氪",
+        "sourceUrl": "https://m.36kr.com/p/3879600190894340",
+        "score": 78,
+        "eventId": "ubtech-u1-debate"
+      },
+      {
+        "id": "2026-07-01-ubtech-u1-xinhua",
+        "date": "2026-07-01",
+        "title": "优必选超仿生机器人首发订单破万，发布「人机共生」十年战略",
+        "source": "新华网",
+        "sourceUrl": "http://www.xinhuanet.com/tech/20260701/3c549b1ded2e47a4894e5b982b8ebc09/c.html",
+        "score": 87,
+        "eventId": "ubtech-u1-orders"
+      },
+      {
+        "id": "2026-06-30-ubtech-u1-caixin",
+        "date": "2026-06-30",
+        "title": "优必选发布 U1 系列仿生陪伴机器人：11.98 万至 99 万元，称很可能进入乙游赛道",
+        "source": "财新网",
+        "sourceUrl": "https://m.caixin.com/m/2026-06-30/102459414.html",
+        "score": 89,
+        "eventId": "ubtech-u1-launch"
+      },
+      {
+        "id": "2026-06-30-ubtech-u1-ithome",
+        "date": "2026-06-30",
+        "title": "优世界 U1 系列发布：88 关节+双支点仿生颈椎，情感大模型本地加密存储",
+        "source": "IT之家",
+        "sourceUrl": "https://www.ithome.com/0/970/624.htm",
+        "score": 84,
+        "eventId": "ubtech-u1-launch"
+      }
+    ]
+  },
+  {
+    "id": "robonova",
+    "name": "RoboNova（一直在智能）",
+    "nameEn": "Robonova.i",
+    "region": "中国 · 深圳",
+    "founded": "2024",
+    "tier": "重点追踪",
+    "focus": "恒温情感陪伴机器人",
+    "products": [
+      "Eva.i（苏妍）",
+      "Stella（预告）",
+      "Ember Vale（预告）"
+    ],
+    "website": "https://robonova.world",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://robonova.world/"
+      }
+    ],
+    "keywords": [
+      "Robonova",
+      "RoboNova",
+      "Eva.i",
+      "苏妍",
+      "一直在智能"
+    ],
+    "blurb": "以 37℃ 恒定体温打出差异化：FPC 仿生电子皮肤、19 个触觉感应区、可拆卸摄像头隐私设计，预售价 6800-8000 美元，主打「第四种关系」。",
+    "timeline": [
+      {
+        "id": "2026-08-31-companion-compare-d1ev",
+        "date": "2026-08-31",
+        "title": "人形陪伴机器人横评：U1 订单破 1.3 万、Moya 限量 50 台、Eva.i 下探 5-6 万元",
+        "source": "第一电动网",
+        "sourceUrl": "https://d1ev.com/news/shichang/311861",
+        "score": 85,
+        "eventId": "companion-compare-2026"
+      },
+      {
+        "id": "2026-07-24-robonova-kickstarter-sohu",
+        "date": "2026-07-24",
+        "title": "搜狐：Eva.i 众筹 15.8 万美元、200 台秒空，37℃ 恒温靠石墨烯温控+FPC 电子皮肤量产工艺",
+        "source": "搜狐科技",
+        "sourceUrl": "https://www.sohu.com/a/1054257402_121478199",
+        "score": 79,
+        "eventId": "robonova-evai"
+      },
+      {
+        "id": "2026-04-13-track-eefocus",
+        "date": "2026-04-13",
+        "title": "2026 年，仿生机器人卷到哪儿了？六家头部玩家路线全对比",
+        "source": "与非网",
+        "sourceUrl": "https://www.eefocus.com/article/1988561.html",
+        "score": 82,
+        "eventId": "track-map-2026"
+      },
+      {
+        "id": "2026-03-31-robonova-official",
+        "date": "2026-03-31",
+        "title": "官网：Robonova 具身 AI 伴侣机器人矩阵——EVA.I、Stella、Ember Vale、Flint Calder",
+        "source": "Robonova 官网",
+        "sourceUrl": "https://robonova.world/",
+        "score": 72,
+        "eventId": "robonova-official"
+      },
+      {
+        "id": "2026-02-04-robonova-leaderobot",
+        "date": "2026-02-04",
+        "title": "37℃ 恒温伴侣机器人 Eva.i 爆火后，创始人吴恒回应：正筹建自有工厂，首批 5-8 月交付",
+        "source": "机器人大讲堂",
+        "sourceUrl": "https://www.leaderobot.com/news/7183",
+        "score": 84,
+        "eventId": "robonova-evai"
+      },
+      {
+        "id": "2026-02-04-robonova-zhihu",
+        "date": "2026-02-04",
+        "title": "量产可期？Eva.i 多模态交互拆解：视觉+听觉+触觉协同识别疲劳状态",
+        "source": "知乎专栏",
+        "sourceUrl": "https://zhuanlan.zhihu.com/p/2002445285356509177",
+        "score": 79,
+        "eventId": "robonova-evai"
+      }
+    ]
+  },
+  {
+    "id": "wmdoll",
+    "name": "金三智能 / 金三玩美",
+    "nameEn": "WMdoll",
+    "region": "中国 · 中山",
+    "founded": "2010",
+    "tier": "重点追踪",
+    "focus": "硅胶人偶 + AI 交互（MetaBox）",
+    "products": [
+      "MetaBox AI 智能系列",
+      "金三玩美实体娃娃"
+    ],
+    "website": null,
+    "channels": [],
+    "keywords": [
+      "金三",
+      "WMdoll",
+      "MetaBox",
+      "金三玩美",
+      "金三智能"
+    ],
+    "blurb": "全球最大硅胶娃娃生产商（九成订单在海外），2024 年底推出接入大模型的 MetaBox 系列海外售罄；正与深圳仿生机器人公司联合开发带真实表情的新一代产品。",
+    "timeline": [
+      {
+        "id": "2026-07-05-ubtech-36kr-adult",
+        "date": "2026-07-05",
+        "title": "36氪：「乖乖女」优必选下海，陪伴机器人的尽头是成人服务？",
+        "source": "36氪",
+        "sourceUrl": "https://m.36kr.com/p/3879600190894340",
+        "score": 78,
+        "eventId": "ubtech-u1-debate"
+      },
+      {
+        "id": "2025-12-06-noetix-xiaonuo-toutiao",
+        "date": "2025-12-06",
+        "title": "服贸会上的「小诺」：32 个面部自由度+铂金硅胶，能识别微表情做出 50 多种反应",
+        "source": "今日头条",
+        "sourceUrl": "https://m.toutiao.com/w/1850723649157260/",
+        "score": 74,
+        "eventId": "noetix-xiaonuo"
+      },
+      {
+        "id": "2025-03-27-wmdoll-tmtpost",
+        "date": "2025-03-27",
+        "title": "风口上的荷尔蒙：AI 情趣机器人杀疯了，MetaBox 售价 1-1.45 万元",
+        "source": "钛媒体",
+        "sourceUrl": "https://www.tmtpost.com/7511329.html",
+        "score": 80,
+        "eventId": "wmdoll-metabox"
+      },
+      {
+        "id": "2025-03-06-wmdoll-zsnews",
+        "date": "2025-03-06",
+        "title": "AI 娃娃中山造：MetaBox 海外售罄，金三智能正与深圳仿生机器人公司联合开发表情版",
+        "source": "中山Plus",
+        "sourceUrl": "https://zsrbapp.zsnews.cn/home/content/newsContent/0/663173",
+        "score": 78,
+        "eventId": "wmdoll-metabox"
+      },
+      {
+        "id": "2025-02-28-wmdoll-stcn",
+        "date": "2025-02-28",
+        "title": "金三玩美走红：全球最大硅胶娃娃生产商接入 AI，创始人称十五年第一次这么火爆",
+        "source": "证券时报",
+        "sourceUrl": "https://www.stcn.com/article/detail/1553353.html",
+        "score": 82,
+        "eventId": "wmdoll-metabox"
+      }
+    ]
+  },
+  {
+    "id": "droidup",
+    "name": "卓益得",
+    "nameEn": "DroidUp",
+    "region": "中国 · 上海",
+    "founded": "2021",
+    "tier": "重点追踪",
+    "focus": "完全仿生机器人 / 肌腱驱动",
+    "products": [
+      "Moya",
+      "睿娜 Rena",
+      "行者系列 X01 / X02"
+    ],
+    "website": "https://www.droidup.com",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://www.droidup.com"
+      },
+      {
+        "label": "关于我们",
+        "url": "https://www.droidup.com/about"
+      },
+      {
+        "label": "产品系列",
+        "url": "https://www.droidup.com/product"
+      }
+    ],
+    "keywords": [
+      "卓益得",
+      "DroidUp",
+      "Moya",
+      "睿娜",
+      "行者"
+    ],
+    "blurb": "肌腱绳驱路线坚守十余年（对标 1X），2026 年推出全球首款完全仿生具身智能机器人 Moya：恒温皮肤 32-36℃、步态相似度 92%，首批限量 50 台、120-150 万元。",
+    "timeline": [
+      {
+        "id": "2026-09-28-track-aibang",
+        "date": "2026-09-28",
+        "title": "超仿真人形机器人图鉴：24 家企业名单与代表产品盘点",
+        "source": "艾邦机器人",
+        "sourceUrl": "https://www.aibangbots.com/a/9618",
+        "score": 77,
+        "eventId": "track-map-2026"
+      },
+      {
+        "id": "2026-09-17-droidup-gujin-official",
+        "date": "2026-09-17",
+        "title": "官方动态：Moya「入职」古今内衣旗舰店任光影接待官，九月连获三项行业奖项",
+        "source": "卓益得官网",
+        "sourceUrl": "https://www.droidup.com/fenleimingcheng",
+        "score": 74,
+        "eventId": "droidup-moya-gujin"
+      },
+      {
+        "id": "2026-08-31-companion-compare-d1ev",
+        "date": "2026-08-31",
+        "title": "人形陪伴机器人横评：U1 订单破 1.3 万、Moya 限量 50 台、Eva.i 下探 5-6 万元",
+        "source": "第一电动网",
+        "sourceUrl": "https://d1ev.com/news/shichang/311861",
+        "score": 85,
+        "eventId": "companion-compare-2026"
+      },
+      {
+        "id": "2026-07-19-droidup-waic-jiemian",
+        "date": "2026-07-19",
+        "title": "界面：Moya 在 WAIC 三重实战——妇联论坛报幕、4 小时直播不断线、签下千台量产协议",
+        "source": "界面新闻",
+        "sourceUrl": "https://m.jiemian.com/article/14794077.html",
+        "score": 85,
+        "eventId": "droidup-waic-2026"
+      },
+      {
+        "id": "2026-05-17-droidup-zhangjiang-sina",
+        "date": "2026-05-17",
+        "title": "卓益得总部迁入张江机器人谷，Moya 剪彩亮相成全场焦点",
+        "source": "新浪·你好张江人",
+        "sourceUrl": "https://k.sina.com.cn/article_5952915705_162d248f906702y8li.html",
+        "score": 77,
+        "eventId": "droidup-zhangjiang"
+      },
+      {
+        "id": "2026-04-13-track-eefocus",
+        "date": "2026-04-13",
+        "title": "2026 年，仿生机器人卷到哪儿了？六家头部玩家路线全对比",
+        "source": "与非网",
+        "sourceUrl": "https://www.eefocus.com/article/1988561.html",
+        "score": 82,
+        "eventId": "track-map-2026"
+      },
+      {
+        "id": "2026-02-06-droidup-moya-sina",
+        "date": "2026-02-06",
+        "title": "卓益得 Moya：全球首款完全仿生具身智能机器人，体温 32-36℃、步态相似度 92%",
+        "source": "新浪科技",
+        "sourceUrl": "https://www.sina.cn/news/detail/5263459260301338.html",
+        "score": 85,
+        "eventId": "droidup-moya"
+      },
+      {
+        "id": "2026-02-05-droidup-prea-stockstar",
+        "date": "2026-02-05",
+        "title": "卓益得完成近亿元 Pre-A+ 轮融资：浦东资本、张江科投、征和工业、松霖科技入局",
+        "source": "证券之星（天眼查数据）",
+        "sourceUrl": "https://stock.stockstar.com/RB2026020500034302.shtml",
+        "score": 80,
+        "eventId": "droidup-pre-a-plus"
+      },
+      {
+        "id": "2025-07-01-droidup-about-official",
+        "date": "2025-07-01",
+        "title": "官方「关于我们」：完全仿生机器人开创者，三大支撑技术与落地场景",
+        "source": "卓益得官网",
+        "sourceUrl": "https://www.droidup.com/about",
+        "score": 70,
+        "eventId": "droidup-official"
+      }
+    ]
+  },
+  {
+    "id": "noetix",
+    "name": "松延动力",
+    "nameEn": "Noetix Robotics",
+    "region": "中国 · 北京",
+    "founded": "2023",
+    "tier": "重点追踪",
+    "focus": "仿生人脸设备 + 高动态人形",
+    "products": [
+      "小诺（仿生机器人）",
+      "小月（眼神交互仿生机器人）",
+      "Hobbs 仿生人脸设备",
+      "N2 / E1 / Dora"
+    ],
+    "website": "https://noetixrobotics.com",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://noetixrobotics.com/"
+      },
+      {
+        "label": "微博 @NOETIX松延动力",
+        "url": "https://www.sina.cn/media/7994329619"
+      }
+    ],
+    "keywords": [
+      "松延动力",
+      "Noetix",
+      "小诺",
+      "小月",
+      "Hobbs",
+      "小布米",
+      "Bumi"
+    ],
+    "blurb": "清华系团队，N2 以 3.99 万低价+连续后空翻破圈，仿生命线「小诺」（32 面部自由度、铂金硅胶）曾登春晚；「小月」001 号京东首拍 11.08 万元。",
+    "timeline": [
+      {
+        "id": "2026-08-28-noetix-weibo-xiaoyue",
+        "date": "2026-08-28",
+        "title": "官方动态：仿生机器人「小月」001 号京东首拍 11.08 万元落槌，Bumi 小布米 1 小时售出 100 台",
+        "source": "新浪微博 @NOETIX松延动力（官方）",
+        "sourceUrl": "https://www.sina.cn/media/7994329619",
+        "score": 77,
+        "eventId": "noetix-xiaoyue"
+      },
+      {
+        "id": "2026-04-13-track-eefocus",
+        "date": "2026-04-13",
+        "title": "2026 年，仿生机器人卷到哪儿了？六家头部玩家路线全对比",
+        "source": "与非网",
+        "sourceUrl": "https://www.eefocus.com/article/1988561.html",
+        "score": 82,
+        "eventId": "track-map-2026"
+      },
+      {
+        "id": "2026-03-01-noetix-xiaonuo-smzdm",
+        "date": "2026-03-01",
+        "title": "松延动力仿生人形机器人「小诺」京东上架，售价 39.8 万元",
+        "source": "什么值得买",
+        "sourceUrl": "https://www.smzdm.com/p/169431474/",
+        "score": 70,
+        "eventId": "noetix-xiaonuo"
+      },
+      {
+        "id": "2025-12-06-noetix-xiaonuo-toutiao",
+        "date": "2025-12-06",
+        "title": "服贸会上的「小诺」：32 个面部自由度+铂金硅胶，能识别微表情做出 50 多种反应",
+        "source": "今日头条",
+        "sourceUrl": "https://m.toutiao.com/w/1850723649157260/",
+        "score": 74,
+        "eventId": "noetix-xiaonuo"
+      },
+      {
+        "id": "2025-08-13-noetix-app-funding",
+        "date": "2025-08-13",
+        "title": "松延动力完成数亿元 A++ 轮融资：金浦领投，北汽产投、中金资本跟投",
+        "source": "融资中国（acebridge）",
+        "sourceUrl": "https://startup.acebridge.net/ai_outputs/2025/08/14/capital-1755083274164.shtml",
+        "score": 80,
+        "eventId": "noetix-a-plus-plus"
+      },
+      {
+        "id": "2025-03-17-noetix-tmtpost",
+        "date": "2025-03-17",
+        "title": "对话姜哲源：3.99 万元背后，松延动力想做人形机器人赛道的小米和苹果",
+        "source": "钛媒体",
+        "sourceUrl": "https://www.tmtpost.com/7494943.html?rss=souhu",
+        "score": 78,
+        "eventId": "noetix-profile"
+      }
+    ]
+  },
+  {
+    "id": "digit",
+    "name": "数字华夏",
+    "nameEn": "DIGIT",
+    "region": "中国 · 深圳",
+    "founded": "2024",
+    "tier": "重点追踪",
+    "focus": "B 端仿人交互机器人",
+    "products": [
+      "夏澜 S02 / R03",
+      "夏起",
+      "星行侠",
+      "卫小鹿"
+    ],
+    "website": "https://www.digit.com.cn",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://www.digit.com.cn"
+      },
+      {
+        "label": "产品页",
+        "url": "https://www.digit.com.cn/Products.html"
+      }
+    ],
+    "keywords": [
+      "数字华夏",
+      "夏澜",
+      "夏起",
+      "星行侠",
+      "DIGIT"
+    ],
+    "blurb": "「有温度的人形机器人」B 端路线代表：夏澜系列 29+ 主动自由度、自研情商模型与「巨号」交互平台，客户覆盖政务、银行、电网、央国企，成立一年揽 4 亿元订单。",
+    "timeline": [
+      {
+        "id": "2026-09-24-digit-huawei-official",
+        "date": "2026-09-24",
+        "title": "官方动态：夏澜 R03 上岗华为展会 AI Park 展岛，政务/医院/酒店多场景试点中",
+        "source": "数字华夏官网",
+        "sourceUrl": "https://www.digit.com.cn/NewsDetail/261.html",
+        "score": 77,
+        "eventId": "digit-huawei-aipark"
+      },
+      {
+        "id": "2026-09-17-digit-wenbo-official",
+        "date": "2026-09-17",
+        "title": "官方动态：夏澜化身文博「掌柜」，面部近 30 自由度支持十余种高精度表情",
+        "source": "数字华夏官网",
+        "sourceUrl": "https://www.digit.com.cn/NewsDetail/257.html",
+        "score": 74,
+        "eventId": "digit-wenbo"
+      },
+      {
+        "id": "2026-08-27-digit-beerfest-official",
+        "date": "2026-08-27",
+        "title": "官方动态：夏澜 R03 亮相深圳精酿啤酒节，担任服务台接待",
+        "source": "数字华夏官网",
+        "sourceUrl": "https://www.digit.com.cn/NewsDetail/243.html",
+        "score": 72,
+        "eventId": "digit-beerfest"
+      },
+      {
+        "id": "2026-08-19-digit-prea-leaderobot",
+        "date": "2026-08-19",
+        "title": "机器人大讲堂：数字华夏亿元级 Pre-A 落定，夏澜 R03 面部 40+ 自由度、AI 歌手 Ruta 亮相",
+        "source": "机器人大讲堂",
+        "sourceUrl": "https://www.leaderobot.com/news/9175",
+        "score": 80,
+        "eventId": "digit-pre-a"
+      },
+      {
+        "id": "2026-08-17-digit-prea-pedaily",
+        "date": "2026-08-17",
+        "title": "数字华夏完成亿元级 Pre-A 战略融资：产业资本带订单入场，同创伟业加注",
+        "source": "投资界",
+        "sourceUrl": "https://m.pedaily.cn/news/567748",
+        "score": 84,
+        "eventId": "digit-pre-a"
+      },
+      {
+        "id": "2026-07-18-digit-r03-sohu2",
+        "date": "2026-07-18",
+        "title": "开心、不屑、愤怒、疑惑……夏澜 R03 化身「表情帝」",
+        "source": "搜狐",
+        "sourceUrl": "https://www.sohu.com/a/1051900278_115479",
+        "score": 75,
+        "eventId": "digit-r03-waic"
+      },
+      {
+        "id": "2026-07-17-digit-r03-sohu",
+        "date": "2026-07-17",
+        "title": "WAIC 2026：数字华夏夏澜 R03 首展，23 主动+40 被动自由度呈现 30 多种复合表情",
+        "source": "搜狐科技",
+        "sourceUrl": "https://www.sohu.com/a/1051648688_122066678",
+        "score": 81,
+        "eventId": "digit-r03-waic"
+      },
+      {
+        "id": "2026-07-07-ubtech-u1-huxiu",
+        "date": "2026-07-07",
+        "title": "虎嗅：优必选跨界陪伴经济，把具身陪伴机器人的商业化瓶颈摆上了台面",
+        "source": "虎嗅",
+        "sourceUrl": "https://www.huxiu.com/article/4873294.html",
+        "score": 83,
+        "eventId": "ubtech-u1-debate"
+      },
+      {
+        "id": "2026-06-11-digit-36kr",
+        "date": "2026-06-11",
+        "title": "36氪首发：数字华夏融资数千万，夏澜仿人机器人拿下大型央国企数亿订单",
+        "source": "36氪",
+        "sourceUrl": "https://www.36kr.com/p/3252533124702469",
+        "score": 83,
+        "eventId": "digit-funding"
+      },
+      {
+        "id": "2026-04-13-track-eefocus",
+        "date": "2026-04-13",
+        "title": "2026 年，仿生机器人卷到哪儿了？六家头部玩家路线全对比",
+        "source": "与非网",
+        "sourceUrl": "https://www.eefocus.com/article/1988561.html",
+        "score": 82,
+        "eventId": "track-map-2026"
+      },
+      {
+        "id": "2025-08-08-digit-wrc-sina",
+        "date": "2025-08-08",
+        "title": "WRC 2025：夏澜升级 7 大类 22 种表情，装备电子皮肤感知触觉与脉搏",
+        "source": "新浪财经",
+        "sourceUrl": "https://finance.sina.com.cn/tech/it/2025-08-08/doc-infkhrzt3445090.shtml",
+        "score": 75,
+        "eventId": "digit-wrc-2025"
+      },
+      {
+        "id": "2025-03-19-digit-nanjing-gov",
+        "date": "2025-03-19",
+        "title": "成立一年揽 4 亿元订单，数字华夏来南京建华东总部与人形机器人数据采集中心",
+        "source": "南京市政府网",
+        "sourceUrl": "https://www.nanjing.gov.cn/zgnjsjb/jrtt/202503/t20250319_5098363.html",
+        "score": 78,
+        "eventId": "digit-nanjing"
+      }
+    ]
+  },
+  {
+    "id": "hanson",
+    "name": "Hanson Robotics",
+    "nameEn": "Hanson Robotics",
+    "region": "中国 · 香港",
+    "founded": "2007",
+    "tier": "重点追踪",
+    "focus": "表情机器人鼻祖 / Sophia 平台",
+    "products": [
+      "Sophia / Sophia Utility",
+      "Grace（医疗）",
+      "Little Sophia（众筹中）"
+    ],
+    "website": "https://www.hansonrobotics.com",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://www.hansonrobotics.com"
+      }
+    ],
+    "keywords": [
+      "Hanson",
+      "Sophia",
+      "索菲亚",
+      "Frubber"
+    ],
+    "blurb": "Sophia 之父 David Hanson 创立，Frubber 专利皮肤材料与面部 animatronics 曾定义赛道；2026 年官网改版转向「Sophia Utility」询价制平台，Little Sophia 量产仍未兑现。",
+    "timeline": [
+      {
+        "id": "2026-07-20-hanson-sophia-robozaps",
+        "date": "2026-07-20",
+        "title": "Sophia 十周年核查：仍在活动、从未公布售价，官网改版改卖「Sophia Utility」",
+        "source": "RoboZaps",
+        "sourceUrl": "https://blog.robozaps.com/b/sophia-review",
+        "score": 80,
+        "eventId": "hanson-sophia-2026"
+      }
+    ]
+  },
+  {
+    "id": "realbotix",
+    "name": "Realbotix",
+    "nameEn": "Realbotix (TSX-V: XBOT)",
+    "region": "美国 · 拉斯维加斯",
+    "founded": "2019",
+    "tier": "重点追踪",
+    "focus": "超逼真陪伴/服务人形机器人",
+    "products": [
+      "Aria（F 系列）",
+      "Melody（M 系列）",
+      "David",
+      "B 系列半身像"
+    ],
+    "website": "https://www.realbotix.com",
+    "channels": [
+      {
+        "label": "产品站",
+        "url": "https://www.realbotix.com"
+      },
+      {
+        "label": "公司与投资者站",
+        "url": "https://www.realbotix.ai"
+      }
+    ],
+    "keywords": [
+      "Realbotix",
+      "Aria",
+      "Melody",
+      "XBOT"
+    ],
+    "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。",
+    "timeline": [
+      {
+        "id": "2026-08-06-realbotix-emmy-nasdaq",
+        "date": "2026-08-06",
+        "title": "Realbotix 官方：旗下机器人将以角色身份出演艾美奖获奖剧集",
+        "source": "Business Wire（Nasdaq 转发）",
+        "sourceUrl": "https://www.nasdaq.com/press-release/realbotix-robot-appear-emmy-winning-television-show-2026-08-06",
+        "score": 79,
+        "eventId": "realbotix-emmy-tv"
+      },
+      {
+        "id": "2026-04-23-realbotix-bitcoin-nasdaq",
+        "date": "2026-04-23",
+        "title": "Realbotix 官方：M 系列机器人 Melody 将担任 Bitcoin 2026 大会官方迎宾",
+        "source": "Business Wire（Nasdaq 转发）",
+        "sourceUrl": "https://www.nasdaq.com/press-release/realbotix-showcase-humanoid-robot-bitcoin-2026-conference-2026-04-23",
+        "score": 78,
+        "eventId": "realbotix-bitcoin-2026"
+      },
+      {
+        "id": "2026-03-25-realbotix-ericsson-6g",
+        "date": "2026-03-25",
+        "title": "爱立信全球首次 6G 试验演示选用 Realbotix 机器人",
+        "source": "Business Wire",
+        "sourceUrl": "https://www.businesswire.com/news/home/20260325863699/en/Ericsson-Features-Realbotix-Robot-in-World-First-6G-Trial-Demonstration",
+        "score": 84,
+        "eventId": "realbotix-ericsson-6g"
+      },
+      {
+        "id": "2026-03-13-realbotix-two-robots",
+        "date": "2026-03-13",
+        "title": "CES 2026 名场面：两台 Realbotix 人形机器人完成两小时无脚本 AI 对话",
+        "source": "The Globe and Mail",
+        "sourceUrl": "https://www.theglobeandmail.com/investing/markets/markets-news/Business%20Wire/37037116/realbotix-showcases-first-public-embedded-ai-conversation-between-two-humanoid-robots-at-ces-2026/",
+        "score": 82,
+        "eventId": "realbotix-ces-2026"
+      },
+      {
+        "id": "2025-11-04-realbotix-ces-nasdaq",
+        "date": "2025-11-04",
+        "title": "Realbotix 官方：CES 2026 将展出四台 AI 人形机器人并发布下一代交互 AI",
+        "source": "Business Wire（Nasdaq 转发）",
+        "sourceUrl": "https://www.nasdaq.com/press-release/realbotix-exhibit-ces-2026-expanded-lineup-ai-powered-humanoid-robots-2025-11-04",
+        "score": 76,
+        "eventId": "realbotix-ces-2026"
+      }
+    ]
+  },
+  {
+    "id": "engineered-arts",
+    "name": "Engineered Arts",
+    "nameEn": "Engineered Arts",
+    "region": "英国 · 康沃尔",
+    "founded": "2004",
+    "tier": "重点追踪",
+    "focus": "社交表情人形机器人",
+    "products": [
+      "Ameca（Gen 3）",
+      "Mesmer",
+      "RoboThespian",
+      "Tritium OS"
+    ],
+    "website": "https://engineeredarts.co.uk",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://engineeredarts.co.uk"
+      }
+    ],
+    "keywords": [
+      "Engineered Arts",
+      "Ameca",
+      "Mesmer",
+      "Tritium"
+    ],
+    "blurb": "21 年表情机器人老兵：Ameca 以 25 个面部电机与 Tritium 云平台成为全球认知度最高的机器人面孔，部署 200+ 台于迪拜未来博物馆、Sphere 等，2024 年底完成 1000 万美元 A 轮。",
+    "timeline": [
+      {
+        "id": "2026-06-22-ea-desktop-gen3-robozaps",
+        "date": "2026-06-22",
+        "title": "RoboZaps 核查：Ameca Desktop Gen 3 于 6 月 22 日发布，525mm/8.5kg 桌面头肩机型",
+        "source": "RoboZaps",
+        "sourceUrl": "https://blog.robozaps.com/b/ameca-review",
+        "score": 80,
+        "eventId": "ea-desktop-gen3"
+      },
+      {
+        "id": "2026-06-07-ameca-sanmateo-abc7",
+        "date": "2026-06-07",
+        "title": "Ameca 现身圣马特奥县嘉年华：50+ 语言实时对话，Engineered Arts 加州办公室出动",
+        "source": "ABC7 News",
+        "sourceUrl": "https://abc7news.com/post/talking-humanoid-robot-ameca-makes-appearance-san-mateo-county-fair/19252591/",
+        "score": 77,
+        "eventId": "ameca-san-mateo"
+      },
+      {
+        "id": "2026-04-17-ea-award",
+        "date": "2026-04-17",
+        "title": "Engineered Arts 获 2026 全球认可奖：200+ 台机器人部署三大洲，25 个面部电机",
+        "source": "Global Recognition Awards",
+        "sourceUrl": "https://globalrecognitionawards.org/innovative-companies/engineered-arts/",
+        "score": 73,
+        "eventId": "ea-award-2026"
+      }
+    ]
+  },
+  {
+    "id": "clone",
+    "name": "Clone Robotics",
+    "nameEn": "Clone Robotics",
+    "region": "美国 · 山景城（研发源于波兰）",
+    "founded": "2021",
+    "tier": "重点追踪",
+    "focus": "人造肌肉解剖学级仿生",
+    "products": [
+      "Protoclone V1",
+      "Clone Torso 3",
+      "Clone Hand",
+      "Clone Alpha（预售页）"
+    ],
+    "website": "https://clonerobotics.com",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://clonerobotics.com"
+      },
+      {
+        "label": "Android 页面",
+        "url": "https://clonerobotics.com/android"
+      },
+      {
+        "label": "X @clonerobotics",
+        "url": "https://x.com/clonerobotics"
+      }
+    ],
+    "keywords": [
+      "Clone",
+      "Protoclone",
+      "Myofiber",
+      "人造肌肉"
+    ],
+    "blurb": "唯一走 Myofiber 液压人造肌肉路线：复刻 206 块骨骼、1000+ 根肌纤维，目标 2 万美元级量产安卓；路线图：2026 底「外科级」躯干、2027 行走演示、2028 商用 Robo Butler。",
+    "timeline": [
+      {
+        "id": "2026-06-12-clone-protoclone-hg",
+        "date": "2026-06-12",
+        "title": "Clone Protoclone V1 设计解析：聚合物骨骼+结构线缆+人造肌腱单元",
+        "source": "humanoid.guide",
+        "sourceUrl": "https://humanoid.guide/clone-robotics-details-protoclone-v1-humanoid-design/",
+        "score": 81,
+        "eventId": "clone-protoclone"
+      },
+      {
+        "id": "2026-04-13-track-eefocus",
+        "date": "2026-04-13",
+        "title": "2026 年，仿生机器人卷到哪儿了？六家头部玩家路线全对比",
+        "source": "与非网",
+        "sourceUrl": "https://www.eefocus.com/article/1988561.html",
+        "score": 82,
+        "eventId": "track-map-2026"
+      },
+      {
+        "id": "2026-04-09-clone-eefocus",
+        "date": "2026-04-09",
+        "title": "唯一用人造肌肉的人形机器人，站起来了？Clone 2026 年 4 月再进化",
+        "source": "与非网",
+        "sourceUrl": "https://www.eefocus.com/article/1986126.html",
+        "score": 78,
+        "eventId": "clone-torso-3"
+      },
+      {
+        "id": "2026-03-10-clone-android-official",
+        "date": "2026-03-10",
+        "title": "官方页面：Clone Android——Myofiber 人造肌肉 50ms 内收缩超 30%，单根 3 克拉力超 1 公斤",
+        "source": "Clone Robotics 官网",
+        "sourceUrl": "https://clonerobotics.com/android",
+        "score": 80,
+        "eventId": "clone-torso-3"
+      }
+    ]
+  },
+  {
+    "id": "anywit",
+    "name": "无论科技",
+    "nameEn": "Anywit Robotics",
+    "region": "中国 · 合肥",
+    "founded": "2023",
+    "tier": "扩展关注",
+    "focus": "标准化表情头 / 情感交互引擎",
+    "products": [
+      "Anni",
+      "34 自由度表情头组件",
+      "Animum 情感交互引擎"
+    ],
+    "website": "https://www.anywit.com",
+    "channels": [
+      {
+        "label": "官网",
+        "url": "https://www.anywit.com/zh"
+      },
+      {
+        "label": "关于我们",
+        "url": "https://www.anywit.com/zh/company"
+      }
+    ],
+    "keywords": [
+      "无论科技",
+      "Anywit",
+      "Anni",
+      "表情头"
+    ],
+    "blurb": "中科大「可佳/佳佳」团队出身，做表情交互的「卖水人」：34 自由度标准化表情头对标 Engineered Arts，一年内连获两轮（滴滴战投领投），2026 年目标成规模出货。",
+    "timeline": [
+      {
+        "id": "2026-09-28-track-aibang",
+        "date": "2026-09-28",
+        "title": "超仿真人形机器人图鉴：24 家企业名单与代表产品盘点",
+        "source": "艾邦机器人",
+        "sourceUrl": "https://www.aibangbots.com/a/9618",
+        "score": 77,
+        "eventId": "track-map-2026"
+      },
+      {
+        "id": "2026-08-22-anywit-wrc-sina",
+        "date": "2026-08-22",
+        "title": "WRC 2026 现场：无论科技仿生表情头亮相，37 个面部自由度+软材料面皮",
+        "source": "新浪",
+        "sourceUrl": "https://www.sina.cn/news/detail/5334835489146427.html",
+        "score": 72,
+        "eventId": "anywit-wrc-2026"
+      },
+      {
+        "id": "2025-12-31-anywit-pedaily",
+        "date": "2025-12-31",
+        "title": "无论科技完成 Pre-A+ 轮融资：滴滴战投领投、初心资本跟投，年内第二笔",
+        "source": "投资界",
+        "sourceUrl": "https://news.pedaily.cn/202512/559353.shtml",
+        "score": 78,
+        "eventId": "anywit-pre-a"
+      },
+      {
+        "id": "2025-12-02-anywit-36kr",
+        "date": "2025-12-02",
+        "title": "36氪首发：滴滴投了一家机器人表情头公司——无论科技完成数千万 Pre-A 轮",
+        "source": "36氪",
+        "sourceUrl": "https://m.36kr.com/p/3576840991554434",
+        "score": 83,
+        "eventId": "anywit-pre-a"
+      },
+      {
+        "id": "2024-10-25-anywit-xinhua",
+        "date": "2024-10-25",
+        "title": "新华网：无论科技 Anni 亮相——目光跟踪+面部手势情感表达+人格化沉浸交互",
+        "source": "新华网",
+        "sourceUrl": "http://www.news.cn/20241025/8493a959867e401597ff7fae9e4a985e/c.html",
+        "score": 76,
+        "eventId": "anywit-anni"
+      }
+    ]
+  }
+]

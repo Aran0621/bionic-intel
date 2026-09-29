@@ -1,0 +1,64 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --radius: 0.75rem;
+  }
+  html {
+    color-scheme: dark;
+  }
+  body {
+    @apply bg-[#070b14] text-[#dbe4f0] antialiased;
+    font-family:
+      -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC',
+      'Hiragino Sans GB', 'Microsoft YaHei', 'Noto Sans SC', sans-serif;
+  }
+  .font-display {
+    font-family: Georgia, 'Times New Roman', 'Songti SC', 'STSong', 'SimSun',
+      'Noto Serif SC', serif;
+  }
+  ::selection {
+    background: rgba(45, 212, 191, 0.3);
+  }
+}
+
+/* ── 呼吸漂浮光晕（借鉴参考站 aura 动画，深色版） ── */
+@keyframes aura-drift-a {
+  0% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.55; }
+  50% { transform: translate3d(56px, 34px, 0) scale(1.14); opacity: 0.85; }
+  100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.55; }
+}
+@keyframes aura-drift-b {
+  0% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.5; }
+  50% { transform: translate3d(-64px, 28px, 0) scale(1.1); opacity: 0.3; }
+  100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.5; }
+}
+@keyframes aura-drift-c {
+  0% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.4; }
+  50% { transform: translate3d(28px, -40px, 0) scale(1.18); opacity: 0.65; }
+  100% { transform: translate3d(0, 0, 0) scale(1); opacity: 0.4; }
+}
+.aura-float-a { animation: aura-drift-a 16s ease-in-out infinite; will-change: transform, opacity; }
+.aura-float-b { animation: aura-drift-b 19s ease-in-out -6s infinite; will-change: transform, opacity; }
+.aura-float-c { animation: aura-drift-c 22s ease-in-out -11s infinite; will-change: transform, opacity; }
+
+@media (prefers-reduced-motion: reduce) {
+  .aura-float-a, .aura-float-b, .aura-float-c { animation: none; }
+}
+
+/* 卡片悬浮微光 */
+.card-glow {
+  transition: transform 0.25s ease, border-color 0.25s ease, background 0.25s ease, box-shadow 0.25s ease;
+}
+.card-glow:hover {
+  transform: translateY(-2px);
+  border-color: rgba(45, 212, 191, 0.35);
+  box-shadow: 0 8px 32px rgba(45, 212, 191, 0.08), 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+/* 细滚动条 */
+::-webkit-scrollbar { width: 10px; height: 10px; }
+::-webkit-scrollbar-thumb { background: rgba(148, 163, 184, 0.2); border-radius: 8px; }
+::-webkit-scrollbar-track { background: transparent; }
