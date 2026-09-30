@@ -1,8 +1,22 @@
 [
   {
     "date": "2026-09-28",
-    "headline": "达摩财经：官方称「已开始交付」、店铺称延期至 11 月底，U1 交付罗生门发酵",
+    "headline": "优必选回应每经：「报道信息有误，U1 已开始交付，按预订顺序分批排产发货」",
     "picks": [
+      {
+        "id": "2026-09-28-ubtech-u1-delivery-nbd",
+        "date": "2026-09-28",
+        "source": "每日经济新闻",
+        "sourceUrl": "https://www.nbd.com.cn/articles/2026-09-28/4592752.html",
+        "score": 83,
+        "eventId": "ubtech-u1-delivery",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "优必选回应每经：「报道信息有误，U1 已开始交付，按预订顺序分批排产发货」",
+        "summary": "每日经济新闻就「天工行者 U1 尚未交付」的传言向优必选求证，公司回应称报道信息有误，U1 已开始交付，将按预订顺序分批排产发货；但同日报道中京东客服仍表示「目前是预售还没交付」。公司口径与销售渠道口径并存，交付节奏仍待观察。",
+        "reason": "交付争议中公司方首次明确给出「已开始交付」口径，与渠道说法形成可对照的信源差。"
+      },
       {
         "id": "2026-09-28-ubtech-u1-delivery-163",
         "date": "2026-09-28",
@@ -34,7 +48,7 @@
       }
     ],
     "eventCount": 2,
-    "itemCount": 2
+    "itemCount": 3
   },
   {
     "date": "2026-09-27",
@@ -75,10 +89,22 @@
         "title": "官方动态：夏澜 R03 上岗华为展会 AI Park 展岛，政务/医院/酒店多场景试点中",
         "summary": "数字华夏官网新闻：夏澜 R03 亮相华为本届展会首次设立的沉浸式 AI 应用展示区「AI Park 展岛」，数字华夏作为其中的人形机器人企业登场。R03 集仿生外观、灵动表达、智能交互、敏捷执行、灵活部署于一体，正面向政务大厅、医院导诊、酒店前台、图书馆等公共空间落地试点，支持多语言交流，可自主完成迎宾接待、路线导引、讲解咨询全流程，实现全托管式无人值守。",
         "reason": "进入华为展区意味着仿生交互机器人被纳入大厂生态叙事，官方一手信息。"
+      },
+      {
+        "id": "2026-09-24-yanxi-funding-jushen",
+        "date": "2026-09-24",
+        "source": "具身之家",
+        "sourceUrl": "http://www.jushenhome.com/news_d.php?id=1835",
+        "score": 77,
+        "eventId": "yanxi-funding",
+        "companies": [],
+        "title": "具身之家：宁波演犀科技完成融资，全球首款可情感互动流泪仿生表情机器人犀睿 Yansyn-X2",
+        "summary": "具身之家报道：宁波演犀科技完成新一轮融资，由复创基金领投、宥承控股跟投；其号称全球首款可情感互动流泪的仿生表情机器人 Yansyn-X2「犀睿」采用微流控技术实现流泪效果，在外滩大会与宁波智博会连续两天登顶热点、获 2 亿关注；团队开源的 Audio2Face 项目居 GitHub 关注度第一，并入选甬江人才工程获 1100 万元支持。",
+        "reason": "「流泪」微流控表情路线是差异化技术样本，融资+展会热度+开源影响力三线齐备。"
       }
     ],
-    "eventCount": 1,
-    "itemCount": 1
+    "eventCount": 2,
+    "itemCount": 2
   },
   {
     "date": "2026-09-17",
@@ -135,6 +161,18 @@
         "reason": "权威财经媒体对精灵·璇 2.0 公开亮相的现场实录，首形产品线迭代的直接证据。"
       },
       {
+        "id": "2026-09-10-huani-angel-zhidx",
+        "date": "2026-09-10",
+        "source": "智东西",
+        "sourceUrl": "https://m.zhidx.com/p/592786.html",
+        "score": 79,
+        "eventId": "huani-angel",
+        "companies": [],
+        "title": "智东西：华拟智能获数千万元天使轮，西安交大孵化，HUA-R1 面部 7 组自由度",
+        "summary": "智东西报道：西安交大孵化的仿生人形机器人公司华拟智能完成数千万元天使轮融资，投资方为广东省科学院佛山产业技术研究院与东莞科创集团；其 HUA-R1 迎宾机器人具备 7 组面部自由度，人脸识别准确率 99.3%，支持 37 种语言。",
+        "reason": "高校孵化+地方产投组合的典型样本，面部自由度与识别指标披露较具体。"
+      },
+      {
         "id": "2026-09-10-huani-angel-csm",
         "date": "2026-09-10",
         "source": "科创板日报",
@@ -148,7 +186,29 @@
       }
     ],
     "eventCount": 2,
-    "itemCount": 2
+    "itemCount": 3
+  },
+  {
+    "date": "2026-09-03",
+    "headline": "Realbotix 官网新闻列表：与欧洲电信公司启动试点，机器人用于现场演讲与活动场景",
+    "picks": [
+      {
+        "id": "2026-09-03-realbotix-telecom-official",
+        "date": "2026-09-03",
+        "source": "Realbotix 官网（官方）",
+        "sourceUrl": "https://realbotix.ai/",
+        "score": 75,
+        "eventId": "realbotix-telecom-pilot",
+        "companies": [
+          "realbotix"
+        ],
+        "title": "Realbotix 官网新闻列表：与欧洲电信公司启动试点，机器人用于现场演讲与活动场景",
+        "summary": "Realbotix 官网新闻列表显示：9 月 3 日宣布与一家欧洲电信公司启动试点项目，仿生机器人用于现场演讲与活动场景；同页还披露 9 月 14 日获得 Onconetix 桥接贷款、9 月 29 日任命 David Binkowski 为首席营销官。",
+        "reason": "电信渠道试点是 Realbotix 继 CES、比特币大会之后的又一线下场景验证，官方信源补齐。"
+      }
+    ],
+    "eventCount": 1,
+    "itemCount": 1
   },
   {
     "date": "2026-08-31",
@@ -279,6 +339,28 @@
         "title": "机器人大讲堂：数字华夏亿元级 Pre-A 落定，夏澜 R03 面部 40+ 自由度、AI 歌手 Ruta 亮相",
         "summary": "机器人大讲堂披露本轮细节：创始人沈健有近二十年 IT 产业经验，曾带领业务从零跨越至百亿规模，系信创国家标准起草人之一。产品矩阵含夏澜 R03（面部超 40 个自由度、30 多种复合表情）、通用人形夏起、IP 定制双形态星行侠 P2，以及 AI 歌手夏澜 Ruta——搭载近 30 个主动自由度的精密仿生面部系统，演唱中表情与情感实时同步，具备独立词曲创作能力。",
         "reason": "白名单行业媒体的融资复盘，产品矩阵与创始人背景信息最全的一篇。"
+      }
+    ],
+    "eventCount": 1,
+    "itemCount": 1
+  },
+  {
+    "date": "2026-08-18",
+    "headline": "游民星空：AheadForm 发布《精灵·璇 2.0 觉醒》视频，仿生人形机器人全身可动",
+    "picks": [
+      {
+        "id": "2026-08-18-aheadform-elfxuan2-gamersky",
+        "date": "2026-08-18",
+        "source": "游民星空",
+        "sourceUrl": "https://www.gamersky.com/news/202608/2190718.shtml",
+        "score": 74,
+        "eventId": "aheadform-elfxuan-2",
+        "companies": [
+          "aheadform"
+        ],
+        "title": "游民星空：AheadForm 发布《精灵·璇 2.0 觉醒》视频，仿生人形机器人全身可动",
+        "summary": "游民星空报道：AheadForm 于 8 月 17 日发布《精灵·璇 2.0 觉醒》演示视频，展示精灵·璇 2.0 仿生人形机器人的全身可动关节与数十个面部智能驱动单元，头部表情与肢体动作联动演示引发关注。",
+        "reason": "精灵·璇 2.0 从「头部表情」走向「全身可动」的关键演示节点，补全该事件簇的传播链。"
       }
     ],
     "eventCount": 1,
@@ -678,10 +760,24 @@
         "title": "RoboZaps 核查：Ameca Desktop Gen 3 于 6 月 22 日发布，525mm/8.5kg 桌面头肩机型",
         "summary": "RoboZaps 核查 Engineered Arts 官方页面：真正的 Gen 3 是 6 月 22 日发布的 Ameca Desktop Gen 3 桌面机型（525mm、8.5kg 头肩单元），同期推出桌面角色 Ami 与 Azi；官网在售全尺寸机型实为 Generation 2.6（2024），61 个驱动动作中面部占 27 个，市电供电、无电池、无行走能力，网传「ICRA 2025 发布可行走全尺寸 Gen 3」系 AI 聚合站讹传并已污染维基百科。全尺寸 Ameca 约 30 台部署于 27 国，桌面机约 50 台。",
         "reason": "桌面线可能大幅拉低表情机器人采购门槛，同时澄清了流传甚广的规格谣言。"
+      },
+      {
+        "id": "2026-06-22-ea-desktop-gen3-official",
+        "date": "2026-06-22",
+        "source": "Engineered Arts 官网（官方）",
+        "sourceUrl": "https://engineeredarts.com/en/robots/ameca-desktop",
+        "score": 76,
+        "eventId": "ea-desktop-gen3",
+        "companies": [
+          "engineered-arts"
+        ],
+        "title": "Engineered Arts 官方规格页：Ameca Desktop Gen 3 桌面头肩机型 32 个自由度、525mm/8.5kg",
+        "summary": "Engineered Arts 官方规格页：Ameca Desktop Gen 3 为桌面头肩机型，共 32 个自由度（面部 27+颈部 5），高 525mm、重 8.5kg，配备毫米波雷达感知，支持 70+ 种语言，通过 CE/FCC 认证，运行 Tritium robotOS；桌面角色 Ami 与 Azi 同步推出。",
+        "reason": "该事件簇的官方一手规格信源，为此前媒体核查报道提供原始参数锚点。"
       }
     ],
     "eventCount": 1,
-    "itemCount": 1
+    "itemCount": 2
   },
   {
     "date": "2026-06-12",
@@ -744,6 +840,28 @@
         "title": "Ameca 现身圣马特奥县嘉年华：50+ 语言实时对话，Engineered Arts 加州办公室出动",
         "summary": "ABC7 报道：Engineered Arts 的 Ameca 在圣马特奥县嘉年华公开互动，支持包括法语、西班牙语、中文在内的 50 多种语言的面部表情与实时对话。公司代表 Leo Chen 表示使命是「做一个有亲和力、善于社交、能与人建立连接感的机器人」。",
         "reason": "全球最知名表情机器人在美国公众场景的常态化运营证据。"
+      }
+    ],
+    "eventCount": 1,
+    "itemCount": 1
+  },
+  {
+    "date": "2026-05-28",
+    "headline": "PitchBook：Clone Robotics 完成 600 万美元 Later Stage VC，46 名员工，已产生收入",
+    "picks": [
+      {
+        "id": "2026-05-28-clone-funding-pitchbook",
+        "date": "2026-05-28",
+        "source": "PitchBook",
+        "sourceUrl": "https://pitchbook.com/profiles/company/517715-56",
+        "score": 74,
+        "eventId": "clone-funding",
+        "companies": [
+          "clone"
+        ],
+        "title": "PitchBook：Clone Robotics 完成 600 万美元 Later Stage VC，46 名员工，已产生收入",
+        "summary": "PitchBook 公司档案显示：Clone Robotics 于 5 月 28 日完成 600 万美元 Later Stage VC 轮融资，现有 46 名员工，商业状态标注为「Generating Revenue」。",
+        "reason": "肌肉骨骼仿生路线的融资里程碑，营收状态披露为估值讨论提供锚点。"
       }
     ],
     "eventCount": 1,
@@ -1157,6 +1275,28 @@
         "title": "无论科技完成 Pre-A+ 轮融资：滴滴战投领投、初心资本跟投，年内第二笔",
         "summary": "无论科技完成数千万元 Pre-A+ 轮融资，为 2025 年内第二笔股权融资，滴滴战投领投、初心资本跟投，资金用于核心零部件研发、产品工程化加速与重点领域商业化推广。创始团队为中科大计算机学院机器人实验室核心成员，曾研发「可佳」「佳佳」机器人。",
         "reason": "一年内两轮，表情交互零部件化正在被资本快速定价。"
+      }
+    ],
+    "eventCount": 1,
+    "itemCount": 1
+  },
+  {
+    "date": "2025-12-29",
+    "headline": "石墨烯网：RoboNova Eva.i 开启众筹，52 组面部肌肉微表情，2026 年 4 月起交付硬件",
+    "picks": [
+      {
+        "id": "2025-12-29-robonova-evai-graphene",
+        "date": "2025-12-29",
+        "source": "石墨烯网（ITBEAR）",
+        "sourceUrl": "http://www.graphene.tv/20251229148918/",
+        "score": 73,
+        "eventId": "robonova-evai",
+        "companies": [
+          "robonova"
+        ],
+        "title": "石墨烯网：RoboNova Eva.i 开启众筹，52 组面部肌肉微表情，2026 年 4 月起交付硬件",
+        "summary": "石墨烯网报道：RoboNova 旗下仿生伴侣机器人 Eva.i 启动众筹，宣称以 52 组面部肌肉实现微表情，硬件计划 2026 年 4 月起交付，并正在洽谈 IP 角色授权合作。",
+        "reason": "Eva.i 事件簇的众筹起点报道，补全从众筹到 Kickstarter 的时间线。"
       }
     ],
     "eventCount": 1,

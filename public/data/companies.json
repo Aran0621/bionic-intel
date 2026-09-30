@@ -44,6 +44,15 @@
         "eventId": "aheadform-elfxuan-2"
       },
       {
+        "id": "2026-08-18-aheadform-elfxuan2-gamersky",
+        "date": "2026-08-18",
+        "title": "游民星空：AheadForm 发布《精灵·璇 2.0 觉醒》视频，仿生人形机器人全身可动",
+        "source": "游民星空",
+        "sourceUrl": "https://www.gamersky.com/news/202608/2190718.shtml",
+        "score": 74,
+        "eventId": "aheadform-elfxuan-2"
+      },
+      {
         "id": "2026-07-25-aheadform-a2-tmtpost",
         "date": "2026-07-25",
         "title": "一款靠脸吃饭的机器人，让雷军连投两轮",
@@ -158,6 +167,15 @@
     ],
     "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
     "timeline": [
+      {
+        "id": "2026-09-28-ubtech-u1-delivery-nbd",
+        "date": "2026-09-28",
+        "title": "优必选回应每经：「报道信息有误，U1 已开始交付，按预订顺序分批排产发货」",
+        "source": "每日经济新闻",
+        "sourceUrl": "https://www.nbd.com.cn/articles/2026-09-28/4592752.html",
+        "score": 83,
+        "eventId": "ubtech-u1-delivery"
+      },
       {
         "id": "2026-09-28-ubtech-u1-delivery-163",
         "date": "2026-09-28",
@@ -331,6 +349,15 @@
         "source": "知乎专栏",
         "sourceUrl": "https://zhuanlan.zhihu.com/p/2002445285356509177",
         "score": 79,
+        "eventId": "robonova-evai"
+      },
+      {
+        "id": "2025-12-29-robonova-evai-graphene",
+        "date": "2025-12-29",
+        "title": "石墨烯网：RoboNova Eva.i 开启众筹，52 组面部肌肉微表情，2026 年 4 月起交付硬件",
+        "source": "石墨烯网（ITBEAR）",
+        "sourceUrl": "http://www.graphene.tv/20251229148918/",
+        "score": 73,
         "eventId": "robonova-evai"
       }
     ]
@@ -834,6 +861,15 @@
     "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。",
     "timeline": [
       {
+        "id": "2026-09-03-realbotix-telecom-official",
+        "date": "2026-09-03",
+        "title": "Realbotix 官网新闻列表：与欧洲电信公司启动试点，机器人用于现场演讲与活动场景",
+        "source": "Realbotix 官网（官方）",
+        "sourceUrl": "https://realbotix.ai/",
+        "score": 75,
+        "eventId": "realbotix-telecom-pilot"
+      },
+      {
         "id": "2026-08-06-realbotix-emmy-nasdaq",
         "date": "2026-08-06",
         "title": "Realbotix 官方：旗下机器人将以角色身份出演艾美奖获奖剧集",
@@ -919,6 +955,15 @@
         "eventId": "ea-desktop-gen3"
       },
       {
+        "id": "2026-06-22-ea-desktop-gen3-official",
+        "date": "2026-06-22",
+        "title": "Engineered Arts 官方规格页：Ameca Desktop Gen 3 桌面头肩机型 32 个自由度、525mm/8.5kg",
+        "source": "Engineered Arts 官网（官方）",
+        "sourceUrl": "https://engineeredarts.com/en/robots/ameca-desktop",
+        "score": 76,
+        "eventId": "ea-desktop-gen3"
+      },
+      {
         "id": "2026-06-07-ameca-sanmateo-abc7",
         "date": "2026-06-07",
         "title": "Ameca 现身圣马特奥县嘉年华：50+ 语言实时对话，Engineered Arts 加州办公室出动",
@@ -983,6 +1028,15 @@
         "sourceUrl": "https://humanoid.guide/clone-robotics-details-protoclone-v1-humanoid-design/",
         "score": 81,
         "eventId": "clone-protoclone"
+      },
+      {
+        "id": "2026-05-28-clone-funding-pitchbook",
+        "date": "2026-05-28",
+        "title": "PitchBook：Clone Robotics 完成 600 万美元 Later Stage VC，46 名员工，已产生收入",
+        "source": "PitchBook",
+        "sourceUrl": "https://pitchbook.com/profiles/company/517715-56",
+        "score": 74,
+        "eventId": "clone-funding"
       },
       {
         "id": "2026-04-13-track-eefocus",
