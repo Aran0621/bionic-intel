@@ -9,6 +9,9 @@ import NewsCard from '@/components/NewsCard'
 export default function Home({ data }: { data: SiteData }) {
   const [query, setQuery] = useState('')
   const today = data.digests[0]
+  // 以北京时间判断「今天」，避免访客时区差异
+  const todayStr = new Intl.DateTimeFormat('sv-SE', { timeZone: 'Asia/Shanghai' }).format(new Date())
+  const isToday = today?.date === todayStr
 
   const events = useMemo(() => {
     const q = query.trim().toLowerCase()
@@ -23,15 +26,25 @@ export default function Home({ data }: { data: SiteData }) {
 
   return (
     <main className="mx-auto max-w-5xl px-5 pb-20">
-      {/* ── 当日日报 ── */}
+      {/* ── 当日/最新日报 ── */}
       {today && (
         <section className="mt-10">
-          <div className="mb-4 flex items-baseline gap-3">
+          <div className="mb-4 flex flex-wrap items-center gap-3">
             <h2 className="flex items-center gap-2 font-display text-2xl font-bold text-white">
               <Newspaper className="h-5 w-5 text-teal-300" />
-              当日日报 · {formatDate(today.date).main}
+              {isToday ? '当日日报' : '最新日报'} · {formatDate(today.date).main}
             </h2>
             <span className="text-sm text-white/40">{formatDate(today.date).weekday}</span>
+            {!isToday && (
+              <span className="rounded-full border border-amber-300/25 bg-amber-300/10 px-2.5 py-0.5 text-xs text-amber-200/80">
+                今日无当日新闻收录 · 展示最新一期
+              </span>
+            )}
+            {!!data.meta.todayNewCount && (
+              <span className="rounded-full border border-teal-300/25 bg-teal-300/10 px-2.5 py-0.5 text-xs text-teal-200/80">
+                今日新增收录 {data.meta.todayNewCount} 条
+              </span>
+            )}
             <div className="mx-2 h-px flex-1 bg-gradient-to-r from-white/20 to-transparent" />
             <Link to="/archive" className="text-xs text-teal-300/80 transition-colors hover:text-teal-200">
               历史存档 →
@@ -39,7 +52,7 @@ export default function Home({ data }: { data: SiteData }) {
           </div>
 
           <div className="rounded-2xl border border-teal-300/20 bg-gradient-to-br from-teal-300/[0.07] to-transparent p-5 backdrop-blur-md">
-            <p className="text-xs tracking-[0.2em] text-teal-300/70">TODAY'S BRIEFING · 精选 {today.picks.length} 条 / 收录 {today.itemCount} 条 / {today.eventCount} 个事件</p>
+            <p className="text-xs tracking-[0.2em] text-teal-300/70">{isToday ? "TODAY'S BRIEFING" : 'LATEST BRIEFING'} · 精选 {today.picks.length} 条 / 收录 {today.itemCount} 条 / {today.eventCount} 个事件</p>
             <p className="mt-2 font-display text-xl font-bold leading-snug text-white">{today.headline}</p>
             <div className="mt-4 grid gap-4 md:grid-cols-2">
               {today.picks.map((item) => (

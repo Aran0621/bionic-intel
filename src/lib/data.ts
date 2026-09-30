@@ -11,6 +11,7 @@ export interface NewsItem {
   title: string
   summary: string
   reason: string
+  collectedAt?: string
 }
 
 export interface EventCluster {
@@ -50,6 +51,8 @@ export interface Company {
 
 export interface Meta {
   generatedAt: string
+  today?: string
+  todayNewCount?: number
   itemCount: number
   eventCount: number
   digestCount: number

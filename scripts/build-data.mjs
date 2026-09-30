@@ -23,6 +23,14 @@ const DIGEST_PICKS = 6
 const rawItems = JSON.parse(readFileSync(join(root, 'data/seed-items.json'), 'utf8'))
 const companies = JSON.parse(readFileSync(join(root, 'data/companies.json'), 'utf8'))
 
+// 收录日期戳：新条目打今日日期，旧条目从上一版 public/data/items.json 继承
+const todayStr = new Date().toLocaleDateString('sv-SE')
+let prevById = new Map()
+try {
+  const prev = JSON.parse(readFileSync(join(root, 'public/data/items.json'), 'utf8'))
+  prevById = new Map(prev.map((i) => [i.id, i]))
+} catch { /* 首次构建无上一版 */ }
+
 // ---------- 1. 校验 + 去重 ----------
 const REQUIRED = ['id', 'date', 'source', 'sourceUrl', 'score', 'title', 'summary', 'reason', 'eventId']
 const seen = new Set()
@@ -35,7 +43,13 @@ for (const it of rawItems) {
   if (!/^\d{4}-\d{2}-\d{2}$/.test(it.date)) { errors.push(`${it.id} date 格式非法`); continue }
   if (seen.has(it.id)) continue
   seen.add(it.id)
-  items.push({ ...it, companies: it.companies ?? [], score: Math.round(it.score) })
+  const prev = prevById.get(it.id)
+  items.push({
+    ...it,
+    companies: it.companies ?? [],
+    score: Math.round(it.score),
+    collectedAt: it.collectedAt ?? prev?.collectedAt ?? todayStr,
+  })
 }
 if (errors.length) {
   console.error('数据校验失败:\n' + errors.join('\n'))
@@ -109,6 +123,8 @@ write('digests.json', digests)
 write('companies.json', companyOut)
 write('meta.json', {
   generatedAt: new Date().toISOString(),
+  today: todayStr,
+  todayNewCount: kept.filter((i) => i.collectedAt === todayStr).length,
   itemCount: kept.length,
   eventCount: events.length,
   digestCount: digests.length,
