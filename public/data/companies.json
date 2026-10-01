@@ -35,6 +35,15 @@
     "blurb": "哥大 Hod Lipson 实验室血统，专攻「先把一张脸做好」：200+ 微表情节点、0.5mm 精度硅胶皮肤、情绪基座模型 CharacterMind，累计 7 轮融资。",
     "timeline": [
       {
+        "id": "2026-09-29-jinma-head-pricing-reply",
+        "date": "2026-09-29",
+        "title": "金马游乐问询函回复披露仿生表情头定价表：优必选 U1 Pro 16.98 万、松延小月 X-Head1 11.08 万",
+        "source": "金马游乐问询函回复（官方文件）",
+        "sourceUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300756&id=12471508",
+        "score": 75,
+        "eventId": "jinma-bionic-head"
+      },
+      {
         "id": "2026-09-10-aheadform-elfxuan2-cs",
         "date": "2026-09-10",
         "title": "中证金牛座实探外滩大会：首形精灵·璇 2.0 礼服登台，演唱原创歌曲《未定义的关系》",
@@ -167,6 +176,33 @@
     ],
     "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
     "timeline": [
+      {
+        "id": "2026-09-30-ubtech-overseas-orders-ithome",
+        "date": "2026-09-30",
+        "title": "优必选斩获超 5000 万元海外订单含优世界 U1，拟在阿拉木图建首个境外生产基地",
+        "source": "IT之家",
+        "sourceUrl": "https://www.ithome.com/1/008/652.htm",
+        "score": 80,
+        "eventId": "ubtech-overseas-orders"
+      },
+      {
+        "id": "2026-09-29-ubtech-u1-delivery-ofweek",
+        "date": "2026-09-29",
+        "title": "OFweek 深扒 U1 交付：13361 台订单对照年内 1500-2000 台交付预期，首批无一进家庭",
+        "source": "OFweek机器人网",
+        "sourceUrl": "https://robot.ofweek.com/2026-09/ART-898890-12003-30705128.html",
+        "score": 78,
+        "eventId": "ubtech-u1-delivery"
+      },
+      {
+        "id": "2026-09-29-jinma-head-pricing-reply",
+        "date": "2026-09-29",
+        "title": "金马游乐问询函回复披露仿生表情头定价表：优必选 U1 Pro 16.98 万、松延小月 X-Head1 11.08 万",
+        "source": "金马游乐问询函回复（官方文件）",
+        "sourceUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300756&id=12471508",
+        "score": 75,
+        "eventId": "jinma-bionic-head"
+      },
       {
         "id": "2026-09-28-ubtech-u1-delivery-nbd",
         "date": "2026-09-28",
@@ -589,6 +625,15 @@
     "blurb": "清华系团队，N2 以 3.99 万低价+连续后空翻破圈，仿生命线「小诺」（32 面部自由度、铂金硅胶）曾登春晚；「小月」001 号京东首拍 11.08 万元。",
     "timeline": [
       {
+        "id": "2026-09-29-jinma-head-pricing-reply",
+        "date": "2026-09-29",
+        "title": "金马游乐问询函回复披露仿生表情头定价表：优必选 U1 Pro 16.98 万、松延小月 X-Head1 11.08 万",
+        "source": "金马游乐问询函回复（官方文件）",
+        "sourceUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300756&id=12471508",
+        "score": 75,
+        "eventId": "jinma-bionic-head"
+      },
+      {
         "id": "2026-08-28-noetix-weibo-xiaoyue",
         "date": "2026-08-28",
         "title": "官方动态：仿生机器人「小月」001 号京东首拍 11.08 万元落槌，Bumi 小布米 1 小时售出 100 台",
@@ -678,6 +723,15 @@
     ],
     "blurb": "「有温度的人形机器人」B 端路线代表：夏澜系列 29+ 主动自由度、自研情商模型与「巨号」交互平台，客户覆盖政务、银行、电网、央国企，成立一年揽 4 亿元订单。",
     "timeline": [
+      {
+        "id": "2026-09-30-digit-huanqiu-szaicx",
+        "date": "2026-09-30",
+        "title": "数字华夏与环球数科战略合作：夏澜 R03 亮相深圳特昂节，星行侠 P2 现身苏超联赛",
+        "source": "深圳市人工智能产业协会",
+        "sourceUrl": "https://www.szaicx.com/hydt/26798.html",
+        "score": 72,
+        "eventId": "digit-huanqiu-coop"
+      },
       {
         "id": "2026-09-24-digit-huawei-official",
         "date": "2026-09-24",

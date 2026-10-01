@@ -1,5 +1,93 @@
 [
   {
+    "id": "2026-09-30-ubtech-overseas-orders-ithome",
+    "date": "2026-09-30",
+    "source": "IT之家",
+    "sourceUrl": "https://www.ithome.com/1/008/652.htm",
+    "score": 80,
+    "eventId": "ubtech-overseas-orders",
+    "companies": [
+      "ubtech"
+    ],
+    "title": "优必选斩获超 5000 万元海外订单含优世界 U1，拟在阿拉木图建首个境外生产基地",
+    "summary": "优必选科技公众号 9 月 30 日发文：9 月 25 日哈萨克斯坦—中国投资论坛期间，哈总统托卡耶夫会见优必选副总裁钟永，表示支持优必选在阿拉木图建设机器人设备制造工厂，这将是中国境外的首个生产基地，产品面向教育和服务领域，双方还探讨共建联合能力中心。公司同时披露已接连与欧洲、日韩等主要市场客户签约，斩获超 5000 万元海外订单，订单产品包括商用服务人形机器人 Walker C1 与超仿真人形机器人优世界 U1。",
+    "reason": "仿生线 U1 首次进入海外订单交付清单，叠加首个境外生产基地落定，出海节奏明显提速。",
+    "collectedAt": "2026-10-01"
+  },
+  {
+    "id": "2026-09-30-digit-huanqiu-szaicx",
+    "date": "2026-09-30",
+    "source": "深圳市人工智能产业协会",
+    "sourceUrl": "https://www.szaicx.com/hydt/26798.html",
+    "score": 72,
+    "eventId": "digit-huanqiu-coop",
+    "companies": [
+      "digit"
+    ],
+    "title": "数字华夏与环球数科战略合作：夏澜 R03 亮相深圳特昂节，星行侠 P2 现身苏超联赛",
+    "summary": "深圳市人工智能产业协会官网披露：数字华夏与智慧文旅头部企业环球数科达成战略合作，依托后者 50 余个主管部门、百余家景区的文旅客户资源，联合打造人形机器人文旅标杆项目并完成真实商业试点。产品层面，新一代仿生机器人夏澜 R03 亮相第四届深圳特昂节，支持多语言交互与去唤醒词自然对话，可全托管完成迎宾接待、导引讲解全流程，面部、妆容、造型、音色按行业场景定制；IP 定制双形态机器人星行侠 P2 亮相苏超联赛现场，支持粤语、英语、法语等 20 余种语言交互。",
+    "reason": "仿生表情机器人与文旅头部渠道深度绑定的场景落地样本，夏澜 R03 曝光节奏持续。",
+    "collectedAt": "2026-10-01"
+  },
+  {
+    "id": "2026-09-29-ubtech-u1-delivery-ofweek",
+    "date": "2026-09-29",
+    "source": "OFweek机器人网",
+    "sourceUrl": "https://robot.ofweek.com/2026-09/ART-898890-12003-30705128.html",
+    "score": 78,
+    "eventId": "ubtech-u1-delivery",
+    "companies": [
+      "ubtech"
+    ],
+    "title": "OFweek 深扒 U1 交付：13361 台订单对照年内 1500-2000 台交付预期，首批无一进家庭",
+    "summary": "OFweek 梳理 U1 时间线：6 月 30 日全渠道订单破 13361 台、高管称「今年保证一万台交付」；8 月底财报电话会上 CFO 张钜给出年内实际可交付量仅 1500-2000 台，缩水超八成；9 月 16 日首批交付对象为上海永达集团、北京波士集团（均为汽车经销商）与韩国 Galaxy 机器人乐园，部分或以租赁形式用于 4S 店与乐园展示，定位从「陪伴者」变成「效率工具」。报道还引用界面新闻细节：U1 预售定金 3000 元且全额可退，公司优先交付 16.98 万元的 Pro 版；并指出 U1 头部在有限空间集成 19 个自由度实现 30 多种微表情，仿生硅胶皮肤与复杂面部机构的规模化生产行业缺少成熟经验。",
+    "reason": "交付争议中数据最完整的一篇拆解，订单成色、首批去向与产能瓶颈都有硬信息。",
+    "collectedAt": "2026-10-01"
+  },
+  {
+    "id": "2026-09-29-jinma-head-prospectus",
+    "date": "2026-09-29",
+    "source": "金马游乐募集说明书（官方文件）",
+    "sourceUrl": "https://money.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300756&id=12471509",
+    "score": 76,
+    "eventId": "jinma-bionic-head",
+    "companies": [],
+    "title": "金马游乐定增文件：募资投入「表情控制人形仿生机器人头部系统」研发，对标 Ameca",
+    "summary": "金马游乐（300756）2026 年度向特定对象发行股票募集说明书（修订稿）披露「表情控制人形仿生机器人头部系统开发」研发项目：开发高拟真人形机器人头部及颈部，采用多自由度面部驱动机构，面部材质为逼真质感的硅胶模型皮肤，可实现笑、愤怒、伤心、思考、疑虑等多种表情；核心模块包括高精度面部驱动系统、接入 Deepseek 等成熟大语言模型的 AI 对话交互系统、以及通过摄像头捕捉真人表情并映射为机器人面部动作的表情示教系统。文件明确以英国 Engineered Arts 的 Ameca 为已验证技术路径，并称公司已与专业硅胶模型公司合作、完成音素驱动舵机的基础映射实验。",
+    "reason": "游乐设备上市公司正式跨界仿生表情头赛道，把 Ameca 写进定增文件当对标，行业外溢信号明确。",
+    "collectedAt": "2026-10-01"
+  },
+  {
+    "id": "2026-09-29-jinma-head-pricing-reply",
+    "date": "2026-09-29",
+    "source": "金马游乐问询函回复（官方文件）",
+    "sourceUrl": "https://vip.stock.finance.sina.com.cn/corp/view/vCB_AllBulletinDetail.php?stockid=300756&id=12471508",
+    "score": 75,
+    "eventId": "jinma-bionic-head",
+    "companies": [
+      "ubtech",
+      "aheadform",
+      "noetix"
+    ],
+    "title": "金马游乐问询函回复披露仿生表情头定价表：优必选 U1 Pro 16.98 万、松延小月 X-Head1 11.08 万",
+    "summary": "金马游乐定增审核问询函回复（修订稿）列出高动态面部表情头部结构的公开市场定价：优必选 U1 Pro（19 个面部主动自由度+5 个脖子自由度）16.98 万元、U1 Lite（仅头部）11.98 万元；首形科技 Origin M1/F1（25 个微电机）无公开售价、市场预估 15-45 万美元；精灵（ELF）铱/璇 V1 具备 30 个面部自由度；松延动力眼神交互仿生机器人小月 X-Head1（24 个面部自由度）约 11.08 万元。文件测算全尺寸高动态本体+仿生头部加总的成本均价约 53 万-81 万元/台套，并预计规模化产出后成本将进一步下降。",
+    "reason": "上市公司公告级的一次性比价，首次把多家表情头的面部自由度与价格放进同一张表。",
+    "collectedAt": "2026-10-01"
+  },
+  {
+    "id": "2026-09-29-yanxi-tears-rbcua",
+    "date": "2026-09-29",
+    "source": "RBC-Ukraine（转引 Engadget）",
+    "sourceUrl": "https://newsukraine.rbc.ua/news/humanoid-robot-cries-in-public-how-yansyn-1790637367.html",
+    "score": 66,
+    "eventId": "yanxi-funding",
+    "companies": [],
+    "title": "海外媒体跟进演犀科技 Yansyn-X2：外滩大会现场流泪，三层技术架构曝光",
+    "summary": "RBC-Ukraine 转引 Engadget 报道：宁波演犀科技的 Yansyn-X2 仿生表情机器人在上海外滩大会（2026 Inclusion Conference）现场应开发者要求，数秒内从眼角流下一滴泪。报道拆解其三层技术架构：AI 算法分析对话语境与语调；医用级硅胶皮肤下的仿生部件在检测到同情或悲伤语义时将表情切换为悲伤；独立的微流控系统从眼角释放人工眼泪。目前 Yansyn-X2 可转头、跟踪人物并做手势，未来版本计划用仿生肌肉替代舵机以获得更平滑的面部表情。",
+    "reason": "流泪仿生表情机器人的热度外溢至海外媒体，技术架构拆解比国内报道更细。",
+    "collectedAt": "2026-10-01"
+  },
+  {
     "id": "2026-09-28-ubtech-u1-delivery-nbd",
     "date": "2026-09-28",
     "source": "每日经济新闻",
