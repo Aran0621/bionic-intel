@@ -35,6 +35,15 @@
     "blurb": "哥大 Hod Lipson 实验室血统，专攻「先把一张脸做好」：200+ 微表情节点、0.5mm 精度硅胶皮肤、情绪基座模型 CharacterMind，累计 7 轮融资。",
     "timeline": [
       {
+        "id": "2026-10-17-aheadform-wow-tianyi-gamersky",
+        "date": "2026-10-17",
+        "title": "首形科技联动《魔兽世界》：以新种族「天裔族」为原型的仿生机器人亮相",
+        "source": "游民星空",
+        "sourceUrl": "https://www.gamersky.com/news/202610/2229432.shtml",
+        "score": 80,
+        "eventId": "aheadform-wow-tianyi"
+      },
+      {
         "id": "2026-10-03-aheadform-queen-studios-weibo",
         "date": "2026-10-03",
         "title": "官宣：首形科技 × Queen Studios 达成合作，AI 仿生机器人技术 × 超写实雕像工艺",
@@ -185,6 +194,24 @@
     ],
     "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
     "timeline": [
+      {
+        "id": "2026-10-17-ubtech-u1-debate-smzdm",
+        "date": "2026-10-17",
+        "title": "什么值得买：99 万「赛博伴侣」体验拷问——2-4 小时续航成陪伴硬伤",
+        "source": "什么值得买",
+        "sourceUrl": "https://post.smzdm.com/p/aggxxo06/",
+        "score": 68,
+        "eventId": "ubtech-u1-debate"
+      },
+      {
+        "id": "2026-10-14-ubtech-u1-youth-163",
+        "date": "2026-10-14",
+        "title": "南方财经实探优必选总部：U1 已于 9 月小批量交付终端客户，四季度拟推「青春版」",
+        "source": "南方财经",
+        "sourceUrl": "https://www.163.com/dy/article/L97P5D8T05199NPP.html",
+        "score": 84,
+        "eventId": "ubtech-u1-youth"
+      },
       {
         "id": "2026-10-03-ubtech-u1-delivery-qq",
         "date": "2026-10-03",
@@ -661,6 +688,15 @@
     "blurb": "清华系团队，N2 以 3.99 万低价+连续后空翻破圈，仿生命线「小诺」（32 面部自由度、铂金硅胶）曾登春晚；「小月」001 号京东首拍 11.08 万元。",
     "timeline": [
       {
+        "id": "2026-10-17-noetix-theme-park-ip",
+        "date": "2026-10-17",
+        "title": "松延动力 CMO 张淼：仿生机器人将作为 IP 共创载体进入主题公园",
+        "source": "北京商报",
+        "sourceUrl": "https://k.sina.com.cn/article_5953189932_162d6782c0670516to.html",
+        "score": 70,
+        "eventId": "noetix-theme-park-ip"
+      },
+      {
         "id": "2026-10-03-noetix-xiaoyue-suqian",
         "date": "2026-10-03",
         "title": "宿迁人工智能开放日：松延动力仿生机器人「小月」亮相，多模态实时对话圈粉",
@@ -777,6 +813,15 @@
     ],
     "blurb": "「有温度的人形机器人」B 端路线代表：夏澜系列 29+ 主动自由度、自研情商模型与「巨号」交互平台，客户覆盖政务、银行、电网、央国企，成立一年揽 4 亿元订单。",
     "timeline": [
+      {
+        "id": "2026-10-16-digit-hk-fair-official",
+        "date": "2026-10-16",
+        "title": "官方动态：数字华夏携夏澜 R03、星行侠 P2 亮相 2026 香港秋季电子产品展",
+        "source": "数字华夏官网（官方）",
+        "sourceUrl": "https://www.digit.com.cn/News.html",
+        "score": 76,
+        "eventId": "digit-hk-fair"
+      },
       {
         "id": "2026-09-30-digit-huanqiu-szaicx",
         "date": "2026-09-30",
