@@ -213,6 +213,15 @@
         "eventId": "ubtech-u1-debate"
       },
       {
+        "id": "2026-10-18-ubtech-u1-battery-smzdm",
+        "date": "2026-10-18",
+        "title": "99 万仿生机器人续航撑不过半天？优必选回应：2-4 小时是全行业瓶颈",
+        "source": "什么值得买",
+        "sourceUrl": "https://post.smzdm.com/p/aww5lxzp/",
+        "score": 68,
+        "eventId": "ubtech-u1-debate"
+      },
+      {
         "id": "2026-10-17-ubtech-u1-debate-smzdm",
         "date": "2026-10-17",
         "title": "什么值得买：99 万「赛博伴侣」体验拷问——2-4 小时续航成陪伴硬伤",
@@ -832,6 +841,15 @@
     "blurb": "「有温度的人形机器人」B 端路线代表：夏澜系列 29+ 主动自由度、自研情商模型与「巨号」交互平台，客户覆盖政务、银行、电网、央国企，成立一年揽 4 亿元订单。",
     "timeline": [
       {
+        "id": "2026-10-18-digit-angel-plus-36kr",
+        "date": "2026-10-18",
+        "title": "硬氪：数字华夏完成数千万元天使+轮融资，同创伟业独家投资",
+        "source": "硬氪（36氪）",
+        "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248845114&idx=4&sn=0cb5b28f03fb89b5bae36d8e581bdab2",
+        "score": 80,
+        "eventId": "digit-angel-plus"
+      },
+      {
         "id": "2026-10-16-digit-hk-fair-official",
         "date": "2026-10-16",
         "title": "官方动态：数字华夏携夏澜 R03、星行侠 P2 亮相 2026 香港秋季电子产品展",
@@ -1314,6 +1332,39 @@
         "sourceUrl": "http://www.news.cn/20241025/8493a959867e401597ff7fae9e4a985e/c.html",
         "score": 76,
         "eventId": "anywit-anni"
+      }
+    ]
+  },
+  {
+    "id": "figurobot",
+    "name": "Figurobot",
+    "nameEn": "Figurobot",
+    "region": "中国 · 上海",
+    "founded": "2024",
+    "tier": "扩展关注",
+    "focus": "桌面仿生表情机器人 / 微型力矩关节",
+    "products": [
+      "FR-NIA 桌面仿生 AI 陪伴机器人",
+      "NIA-F01「念」60cm 桌面人形机器人"
+    ],
+    "website": null,
+    "channels": [],
+    "keywords": [
+      "Figurobot",
+      "FR-NIA",
+      "NIA-F01",
+      "念"
+    ],
+    "blurb": "创始人 Jim Lu 2002 年入行机器人、2024 年创立 Figurobot，自研微型力矩关节；FR-NIA 以 2mm 仿生硅胶脸 + 10 个面颈部自由度切入桌面陪伴场景，Kickstarter 早鸟价 599 美元起。",
+    "timeline": [
+      {
+        "id": "2026-10-19-figurobot-frnia-yahoo",
+        "date": "2026-10-19",
+        "title": "Figurobot 发布 FR-NIA：11 英寸桌面仿生 AI 陪伴机器人，Kickstarter 早鸟价 599 美元起",
+        "source": "Yahoo Finance（GLOBE NEWSWIRE 官方稿）",
+        "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/figurobot-launches-fr-nia-11-071900227.html",
+        "score": 65,
+        "eventId": "figurobot-frnia-launch"
       }
     ]
   }

@@ -1,8 +1,46 @@
 [
   {
-    "date": "2026-10-18",
-    "headline": "17173：首形科技×《魔兽世界》天裔族仿生机器人亮相，游戏 IP 实体化再下一城",
+    "date": "2026-10-19",
+    "headline": "Figurobot 发布 FR-NIA：11 英寸桌面仿生 AI 陪伴机器人，Kickstarter 早鸟价 599 美元起",
     "picks": [
+      {
+        "id": "2026-10-19-figurobot-frnia-yahoo",
+        "date": "2026-10-19",
+        "source": "Yahoo Finance（GLOBE NEWSWIRE 官方稿）",
+        "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/figurobot-launches-fr-nia-11-071900227.html",
+        "score": 65,
+        "eventId": "figurobot-frnia-launch",
+        "companies": [
+          "figurobot"
+        ],
+        "title": "Figurobot 发布 FR-NIA：11 英寸桌面仿生 AI 陪伴机器人，Kickstarter 早鸟价 599 美元起",
+        "summary": "上海公司 Figurobot 通过 GLOBE NEWSWIRE 宣布 FR-NIA 上线 Kickstarter：约 9 厘米的仿生面部结构内集成 10 个面颈部自由度，外覆仅 2 毫米厚的仿生硅胶层，运动控制精度达 0.01 度，可完成眼、眉、嘴的协调微表情；多模态感知可判断用户位置、声源方向与交互上下文。创始人 Jim Lu 2002 年入行、2024 年创立 Figurobot，自研微型力矩关节；公司另有 60 厘米、27 自由度的桌面人形机器人产品线。",
+        "reason": "付费通讯社稿但确为公司官方发布：2mm 超薄硅胶仿生脸 + 桌面陪伴形态，「先把一张脸做好」路线迎来新玩家。",
+        "collectedAt": "2026-10-20"
+      }
+    ],
+    "eventCount": 1,
+    "itemCount": 1
+  },
+  {
+    "date": "2026-10-18",
+    "headline": "硬氪：数字华夏完成数千万元天使+轮融资，同创伟业独家投资",
+    "picks": [
+      {
+        "id": "2026-10-18-digit-angel-plus-36kr",
+        "date": "2026-10-18",
+        "source": "硬氪（36氪）",
+        "sourceUrl": "http://mp.weixin.qq.com/s?__biz=MzI2NDk5NzA0Mw==&mid=2248845114&idx=4&sn=0cb5b28f03fb89b5bae36d8e581bdab2",
+        "score": 80,
+        "eventId": "digit-angel-plus",
+        "companies": [
+          "digit"
+        ],
+        "title": "硬氪：数字华夏完成数千万元天使+轮融资，同创伟业独家投资",
+        "summary": "硬氪获悉，数字华夏近日完成数千万元天使+轮融资，由同创伟业独家投资，资金用于加大技术研发、产品迭代与提高生产交付速度；此前天使轮资方含智元机器人。公司今年已拿下数亿元订单，客户覆盖头部 ICT 厂商、地方电网、头部银行与大型央国企，产品已开始小规模交付，预期年内交付上千台人形机器人；零售端与发制品龙头瑞贝卡合作，引入夏澜作为门店展示模特。夏澜以精密仿生技术为核心，29 个主动自由度实现面部与颈部精准表情。",
+        "reason": "表情交互路线再获资本加注，「数亿订单+年内千台交付」是检验 B 端仿生交互成色的硬指标。",
+        "collectedAt": "2026-10-20"
+      },
       {
         "id": "2026-10-18-aheadform-wow-tianyi-17173",
         "date": "2026-10-18",
@@ -32,10 +70,25 @@
         "summary": "新浪财经跟踪 U1 发售后热度：当日订单破 1.3 万台、预估成交近 22 亿元超过去年全年营收，但供应链口径显示年内实际可交付仅 1500-2000 台，缩水约 80%；首批采购方以汽车经销商、机器人乐园为主，被业内评价为「高价迎宾设备」。文中亦提及杭州镭萌科技 1499 元毛绒情感机器人 bibo 的低价对照。",
         "reason": "订单狂欢与交付能力的落差是当下陪伴机器人最真实的商业化命题，归入 U1 争议聚簇。",
         "collectedAt": "2026-10-19"
+      },
+      {
+        "id": "2026-10-18-ubtech-u1-battery-smzdm",
+        "date": "2026-10-18",
+        "source": "什么值得买",
+        "sourceUrl": "https://post.smzdm.com/p/aww5lxzp/",
+        "score": 68,
+        "eventId": "ubtech-u1-debate",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "99 万仿生机器人续航撑不过半天？优必选回应：2-4 小时是全行业瓶颈",
+        "summary": "U1 参数曝光后续航引发集中吐槽：近百万售价的全尺寸仿生机器人连续互动约 2 小时，网友称「刚聊出情绪就要回充电桩」。优必选官方回应称短续航属行业共性难题，并引集邦咨询数据：现阶段全球量产全尺寸人形机器人动态续航普遍卡在 2-4 小时，宇树 H1、特斯拉 Optimus 持续运动工况约 2 小时；受限于伺服关节高功耗与狭小机身空间，人形机器人电池容量普遍低于 2kWh。",
+        "reason": "订单与交付争议之外，续航是 U1 面临的第三个现实拷问，官方回应给出了行业级参照系。",
+        "collectedAt": "2026-10-20"
       }
     ],
-    "eventCount": 2,
-    "itemCount": 2
+    "eventCount": 3,
+    "itemCount": 4
   },
   {
     "date": "2026-10-17",
