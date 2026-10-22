@@ -35,6 +35,15 @@
     "blurb": "哥大 Hod Lipson 实验室血统，专攻「先把一张脸做好」：200+ 微表情节点、0.5mm 精度硅胶皮肤、情绪基座模型 CharacterMind，累计 7 轮融资。",
     "timeline": [
       {
+        "id": "2026-10-20-bionic-track-survey-dutenews",
+        "date": "2026-10-20",
+        "title": "读特「科创圳观察」：超仿生人形机器人，新赛道还是新噱头？",
+        "source": "读特新闻",
+        "sourceUrl": "https://m.dutenews.com/n/article/60010795",
+        "score": 74,
+        "eventId": "bionic-humanoid-track-survey"
+      },
+      {
         "id": "2026-10-18-aheadform-wow-tianyi-17173",
         "date": "2026-10-18",
         "title": "17173：首形科技×《魔兽世界》天裔族仿生机器人亮相，游戏 IP 实体化再下一城",
@@ -203,6 +212,24 @@
     ],
     "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
     "timeline": [
+      {
+        "id": "2026-10-20-bionic-track-survey-dutenews",
+        "date": "2026-10-20",
+        "title": "读特「科创圳观察」：超仿生人形机器人，新赛道还是新噱头？",
+        "source": "读特新闻",
+        "sourceUrl": "https://m.dutenews.com/n/article/60010795",
+        "score": 74,
+        "eventId": "bionic-humanoid-track-survey"
+      },
+      {
+        "id": "2026-10-20-ubtech-2026h1-earnings-dutenews",
+        "date": "2026-10-20",
+        "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
+        "source": "读特新闻",
+        "sourceUrl": "https://m.dutenews.com/n/article/60073265",
+        "score": 73,
+        "eventId": "ubtech-2026h1-earnings"
+      },
       {
         "id": "2026-10-19-emotion-robot-eldercare-thepaper",
         "date": "2026-10-19",
@@ -1058,6 +1085,15 @@
     ],
     "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。",
     "timeline": [
+      {
+        "id": "2026-10-20-realbotix-ces2027-businesswire",
+        "date": "2026-10-20",
+        "title": "Realbotix 官宣参展 CES 2027，将携全新 Echo 产品线亮相拉斯维加斯",
+        "source": "Business Wire（官方稿）",
+        "sourceUrl": "https://www.businesswire.com/news/home/20261020515672/en/Realbotix-to-Exhibit-at-CES-2027",
+        "score": 70,
+        "eventId": "realbotix-ces-2027"
+      },
       {
         "id": "2026-09-03-realbotix-telecom-official",
         "date": "2026-09-03",

@@ -2081,6 +2081,38 @@
     ]
   },
   {
+    "id": "bionic-humanoid-track-survey",
+    "title": "读特「科创圳观察」：超仿生人形机器人，新赛道还是新噱头？",
+    "date": "2026-10-20",
+    "heat": 74,
+    "reportCount": 1,
+    "sources": [
+      "读特新闻"
+    ],
+    "companies": [
+      "ubtech",
+      "aheadform"
+    ],
+    "items": [
+      {
+        "id": "2026-10-20-bionic-track-survey-dutenews",
+        "date": "2026-10-20",
+        "source": "读特新闻",
+        "sourceUrl": "https://m.dutenews.com/n/article/60010795",
+        "score": 74,
+        "eventId": "bionic-humanoid-track-survey",
+        "companies": [
+          "ubtech",
+          "aheadform"
+        ],
+        "title": "读特「科创圳观察」：超仿生人形机器人，新赛道还是新噱头？",
+        "summary": "深圳特区报读特客户端梳理超仿生赛道：优必选 6 月 30 日发布 U1 系列（1:1 复刻真人、88 个全身自由度、33 个面部自由度、30 多种微表情），现场宣布全渠道订单累计突破 13361 台、定价 11.98 万至 99 万元，号称全球唯一具备规模化量产能力的全尺寸超仿生人形机器人；今年以来首形科技、松延动力、卓益得等企业相继发布超仿生产品。文章追问：「赛博陪伴」是产业增量赛道还是资本噱头？",
+        "reason": "深圳本地党媒对超仿生赛道的一次系统盘点，订单数字与「赛道或噱头」之问并存，适合作为赛道定调稿收录。",
+        "collectedAt": "2026-10-22"
+      }
+    ]
+  },
+  {
     "id": "aheadform-queen-studios",
     "title": "官宣：首形科技 × Queen Studios 达成合作，AI 仿生机器人技术 × 超写实雕像工艺",
     "date": "2026-10-03",
@@ -2197,6 +2229,36 @@
         "summary": "PitchBook 公司档案显示：Clone Robotics 于 5 月 28 日完成 600 万美元 Later Stage VC 轮融资，现有 46 名员工，商业状态标注为「Generating Revenue」。",
         "reason": "肌肉骨骼仿生路线的融资里程碑，营收状态披露为估值讨论提供锚点。",
         "collectedAt": "2026-09-30"
+      }
+    ]
+  },
+  {
+    "id": "ubtech-2026h1-earnings",
+    "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
+    "date": "2026-10-20",
+    "heat": 73,
+    "reportCount": 1,
+    "sources": [
+      "读特新闻"
+    ],
+    "companies": [
+      "ubtech"
+    ],
+    "items": [
+      {
+        "id": "2026-10-20-ubtech-2026h1-earnings-dutenews",
+        "date": "2026-10-20",
+        "source": "读特新闻",
+        "sourceUrl": "https://m.dutenews.com/n/article/60073265",
+        "score": 73,
+        "eventId": "ubtech-2026h1-earnings",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
+        "summary": "读特报道优必选 2026 年上半年业绩：总营收在人形机器人公司中位列全球第一，人形机器人总销量 16123 台斩获全球第一；6 月集中推出工业人形 Cruzr Y1、商用 Walker C1、超仿生优世界 U1 三大新品，下半年 Walker、Cruzr、U1 系列将全面交付，工业侧客户覆盖空客、比亚迪、吉利、富士康等。",
+        "reason": "财报季的关键数据点：U1 所在的消费仿生线与工业线首次在同一份半年报里同框，「全面交付」承诺与此前交付缩水报道形成对照。",
+        "collectedAt": "2026-10-22"
       }
     ]
   },
@@ -2373,6 +2435,36 @@
         "summary": "Robonova 官网展示其具身 AI 伴侣机器人产品线：EVA.I 之外还有 Stella、Ember Vale、Flint Calder 等角色（多数标注 COMING SOON），站点支持美元计价，定位全球市场。",
         "reason": "官方产品矩阵页，观察其从单品爆款走向多角色产品线的窗口。",
         "collectedAt": "2026-09-29"
+      }
+    ]
+  },
+  {
+    "id": "realbotix-ces-2027",
+    "title": "Realbotix 官宣参展 CES 2027，将携全新 Echo 产品线亮相拉斯维加斯",
+    "date": "2026-10-20",
+    "heat": 70,
+    "reportCount": 1,
+    "sources": [
+      "Business Wire（官方稿）"
+    ],
+    "companies": [
+      "realbotix"
+    ],
+    "items": [
+      {
+        "id": "2026-10-20-realbotix-ces2027-businesswire",
+        "date": "2026-10-20",
+        "source": "Business Wire（官方稿）",
+        "sourceUrl": "https://www.businesswire.com/news/home/20261020515672/en/Realbotix-to-Exhibit-at-CES-2027",
+        "score": 70,
+        "eventId": "realbotix-ces-2027",
+        "companies": [
+          "realbotix"
+        ],
+        "title": "Realbotix 官宣参展 CES 2027，将携全新 Echo 产品线亮相拉斯维加斯",
+        "summary": "Realbotix 官方新闻稿：将于 2027 年 1 月 6-9 日重返 CES（拉斯维加斯会展中心北馆 12734 展位），展出 AI 人形机器人全线产品、交互式 AI 与视觉系统，并首次带来全新 Echo 产品线；CEO Andrew Kiguel 称 CES 2026 的演示吸引逾 14.8 万名观众，明年将扩大具身 AI 展示规模。",
+        "reason": "官方渠道确认的展会计划，Echo 新产品线首次露面，是观察 Realbotix 产品路线延展的明确信号。",
+        "collectedAt": "2026-10-22"
       }
     ]
   },
