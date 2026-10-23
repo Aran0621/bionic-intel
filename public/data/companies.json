@@ -213,6 +213,33 @@
     "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
     "timeline": [
       {
+        "id": "2026-10-22-humanoid-rental-price-drop-huxiu",
+        "date": "2026-10-22",
+        "title": "虎嗅：人形机器人日租较年初下跌七成，厂商加速铺渠道但交付与运维瓶颈凸显",
+        "source": "虎嗅",
+        "sourceUrl": "https://www.huxiu.com/article/4899414.html",
+        "score": 76,
+        "eventId": "humanoid-rental-price-drop"
+      },
+      {
+        "id": "2026-10-22-ubtech-2026h1-earnings-gelonghui",
+        "date": "2026-10-22",
+        "title": "格隆汇：优必选 2026H1 营收 12.7 亿元，全尺寸人形机器人收入暴增 1445%",
+        "source": "格隆汇",
+        "sourceUrl": "https://www.gelonghui.com/news/5299932",
+        "score": 72,
+        "eventId": "ubtech-2026h1-earnings"
+      },
+      {
+        "id": "2026-10-21-ubtech-u1-first-delivery-autohome",
+        "date": "2026-10-21",
+        "title": "优必选 U1 正式开启交付：首批交付上海永达、北京波士与韩国 Galaxy 机器人乐园",
+        "source": "汽车之家车家号（盖世汽车）",
+        "sourceUrl": "https://chejiahao.autohome.com.cn/info/26499557",
+        "score": 70,
+        "eventId": "ubtech-u1-first-delivery"
+      },
+      {
         "id": "2026-10-20-bionic-track-survey-dutenews",
         "date": "2026-10-20",
         "title": "读特「科创圳观察」：超仿生人形机器人，新赛道还是新噱头？",
@@ -265,6 +292,15 @@
         "sourceUrl": "https://post.smzdm.com/p/aggxxo06/",
         "score": 68,
         "eventId": "ubtech-u1-debate"
+      },
+      {
+        "id": "2026-10-16-ubtech-faw-vw-logistics-sina",
+        "date": "2026-10-16",
+        "title": "优必选携手一汽-大众，具身智能机器人从质检拓展至物流场景",
+        "source": "新浪科技（机器人全球资讯）",
+        "sourceUrl": "https://k.sina.com.cn/article_5952915705_162d248f906703qsvc.html?cre=tianyi&loc=24&mod=pcpager_news&r=0&rfunc=45&tj=cxvertical_pc_pager_news&tr=174",
+        "score": 71,
+        "eventId": "ubtech-faw-vw-logistics"
       },
       {
         "id": "2026-10-14-ubtech-u1-youth-163",

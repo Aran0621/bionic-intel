@@ -1471,6 +1471,52 @@
     ]
   },
   {
+    "id": "ubtech-2026h1-earnings",
+    "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
+    "date": "2026-10-22",
+    "heat": 80,
+    "reportCount": 2,
+    "sources": [
+      "读特新闻",
+      "格隆汇"
+    ],
+    "companies": [
+      "ubtech"
+    ],
+    "items": [
+      {
+        "id": "2026-10-20-ubtech-2026h1-earnings-dutenews",
+        "date": "2026-10-20",
+        "source": "读特新闻",
+        "sourceUrl": "https://m.dutenews.com/n/article/60073265",
+        "score": 73,
+        "eventId": "ubtech-2026h1-earnings",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
+        "summary": "读特报道优必选 2026 年上半年业绩：总营收在人形机器人公司中位列全球第一，人形机器人总销量 16123 台斩获全球第一；6 月集中推出工业人形 Cruzr Y1、商用 Walker C1、超仿生优世界 U1 三大新品，下半年 Walker、Cruzr、U1 系列将全面交付，工业侧客户覆盖空客、比亚迪、吉利、富士康等。",
+        "reason": "财报季的关键数据点：U1 所在的消费仿生线与工业线首次在同一份半年报里同框，「全面交付」承诺与此前交付缩水报道形成对照。",
+        "collectedAt": "2026-10-22"
+      },
+      {
+        "id": "2026-10-22-ubtech-2026h1-earnings-gelonghui",
+        "date": "2026-10-22",
+        "source": "格隆汇",
+        "sourceUrl": "https://www.gelonghui.com/news/5299932",
+        "score": 72,
+        "eventId": "ubtech-2026h1-earnings",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "格隆汇：优必选 2026H1 营收 12.7 亿元，全尺寸人形机器人收入暴增 1445%",
+        "summary": "格隆汇披露优必选中期业绩细节：上半年总营收 12.7 亿元、同比增长 104.2%；人形机器人总销量 16123 台、同比增长 268.3%；其中全尺寸具身智能人形机器人收入 5.9 亿元、同比增长 1445%，销量 921 台、同比增长 1946.7%。上半年研发投入超 3 亿元，预计全年研发费用达 7 亿元；自研基座大模型 Thinker 在 10B 以下评测中获 9 项全球第一。",
+        "reason": "同事件新报道方：格隆汇给出收入结构与研发口径的完整数字，与读特稿互补，归入半年报聚簇。",
+        "collectedAt": "2026-10-23"
+      }
+    ]
+  },
+  {
     "id": "digit-angel-plus",
     "title": "硬氪：数字华夏完成数千万元天使+轮融资，同创伟业独家投资",
     "date": "2026-10-18",
@@ -1871,6 +1917,36 @@
     ]
   },
   {
+    "id": "humanoid-rental-price-drop",
+    "title": "虎嗅：人形机器人日租较年初下跌七成，厂商加速铺渠道但交付与运维瓶颈凸显",
+    "date": "2026-10-22",
+    "heat": 76,
+    "reportCount": 1,
+    "sources": [
+      "虎嗅"
+    ],
+    "companies": [
+      "ubtech"
+    ],
+    "items": [
+      {
+        "id": "2026-10-22-humanoid-rental-price-drop-huxiu",
+        "date": "2026-10-22",
+        "source": "虎嗅",
+        "sourceUrl": "https://www.huxiu.com/article/4899414.html",
+        "score": 76,
+        "eventId": "humanoid-rental-price-drop",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "虎嗅：人形机器人日租较年初下跌七成，厂商加速铺渠道但交付与运维瓶颈凸显",
+        "summary": "虎嗅深度报道：人形机器人租赁价格较年初下跌约七成，厂商转而加速铺设渠道。优必选 7 月与波士集团签约京津冀首家仿生人形机器人授权合作，把 U1 放进奔驰、现代等汽车 4S 店，合作方需承担体验、租赁、场景落地、标准化交付与官方维保；10 月与建发股份的合作进一步延伸到渠道、供应链、融资租赁和海外运营。文章判断：用途尚未定型的超仿生产品，门店只解决「在哪里看见」，成交取决于到场后能做什么、出问题谁负责。",
+        "reason": "租金暴跌与渠道扩张并置，点破当下超仿生机器人商业化的真问题：不是没人看，而是「能用」还没补上。",
+        "collectedAt": "2026-10-23"
+      }
+    ]
+  },
+  {
     "id": "emotion-robot-eldercare-survey",
     "title": "澎湃：每天互动 60 次，情感陪伴机器人先在养老院找到了真实场景",
     "date": "2026-10-19",
@@ -2233,36 +2309,6 @@
     ]
   },
   {
-    "id": "ubtech-2026h1-earnings",
-    "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
-    "date": "2026-10-20",
-    "heat": 73,
-    "reportCount": 1,
-    "sources": [
-      "读特新闻"
-    ],
-    "companies": [
-      "ubtech"
-    ],
-    "items": [
-      {
-        "id": "2026-10-20-ubtech-2026h1-earnings-dutenews",
-        "date": "2026-10-20",
-        "source": "读特新闻",
-        "sourceUrl": "https://m.dutenews.com/n/article/60073265",
-        "score": 73,
-        "eventId": "ubtech-2026h1-earnings",
-        "companies": [
-          "ubtech"
-        ],
-        "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
-        "summary": "读特报道优必选 2026 年上半年业绩：总营收在人形机器人公司中位列全球第一，人形机器人总销量 16123 台斩获全球第一；6 月集中推出工业人形 Cruzr Y1、商用 Walker C1、超仿生优世界 U1 三大新品，下半年 Walker、Cruzr、U1 系列将全面交付，工业侧客户覆盖空客、比亚迪、吉利、富士康等。",
-        "reason": "财报季的关键数据点：U1 所在的消费仿生线与工业线首次在同一份半年报里同框，「全面交付」承诺与此前交付缩水报道形成对照。",
-        "collectedAt": "2026-10-22"
-      }
-    ]
-  },
-  {
     "id": "daxiang-huoxing-robot",
     "title": "电子工程专辑：硅胶龙头下场做仿真人形机器人，「火星美女」起售价 1.58 万元",
     "date": "2026-07-06",
@@ -2435,6 +2481,66 @@
         "summary": "Robonova 官网展示其具身 AI 伴侣机器人产品线：EVA.I 之外还有 Stella、Ember Vale、Flint Calder 等角色（多数标注 COMING SOON），站点支持美元计价，定位全球市场。",
         "reason": "官方产品矩阵页，观察其从单品爆款走向多角色产品线的窗口。",
         "collectedAt": "2026-09-29"
+      }
+    ]
+  },
+  {
+    "id": "ubtech-faw-vw-logistics",
+    "title": "优必选携手一汽-大众，具身智能机器人从质检拓展至物流场景",
+    "date": "2026-10-16",
+    "heat": 71,
+    "reportCount": 1,
+    "sources": [
+      "新浪科技（机器人全球资讯）"
+    ],
+    "companies": [
+      "ubtech"
+    ],
+    "items": [
+      {
+        "id": "2026-10-16-ubtech-faw-vw-logistics-sina",
+        "date": "2026-10-16",
+        "source": "新浪科技（机器人全球资讯）",
+        "sourceUrl": "https://k.sina.com.cn/article_5952915705_162d248f906703qsvc.html?cre=tianyi&loc=24&mod=pcpager_news&r=0&rfunc=45&tj=cxvertical_pc_pager_news&tr=174",
+        "score": 71,
+        "eventId": "ubtech-faw-vw-logistics",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "优必选携手一汽-大众，具身智能机器人从质检拓展至物流场景",
+        "summary": "优必选宣布与一汽-大众达成战略合作，共同推进具身智能机器人在物流领域的应用场景开发及测试，并构建示范应用场景。此前 Walker S Lite 已进入一汽-大众青岛分公司国家级智能制造示范工厂进行车辆质检实训，与工厂自动化控制系统无缝集成；此次合作是在质检基础上向物流场景的进一步拓展。报道同时确认柳州超级智慧工厂已于 9 月 12 日投产，每 10 分钟可下线 1 台机器人，年规划产能超万台。",
+        "reason": "头部车企供应链对稳定性要求极高，优必选从质检迈入物流场景，是超仿生/具身产品线工程化能力的侧面印证。",
+        "collectedAt": "2026-10-23"
+      }
+    ]
+  },
+  {
+    "id": "ubtech-u1-first-delivery",
+    "title": "优必选 U1 正式开启交付：首批交付上海永达、北京波士与韩国 Galaxy 机器人乐园",
+    "date": "2026-10-21",
+    "heat": 70,
+    "reportCount": 1,
+    "sources": [
+      "汽车之家车家号（盖世汽车）"
+    ],
+    "companies": [
+      "ubtech"
+    ],
+    "items": [
+      {
+        "id": "2026-10-21-ubtech-u1-first-delivery-autohome",
+        "date": "2026-10-21",
+        "source": "汽车之家车家号（盖世汽车）",
+        "sourceUrl": "https://chejiahao.autohome.com.cn/info/26499557",
+        "score": 70,
+        "eventId": "ubtech-u1-first-delivery",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "优必选 U1 正式开启交付：首批交付上海永达、北京波士与韩国 Galaxy 机器人乐园",
+        "summary": "盖世汽车一周要闻确认：优必选 U1 系列超仿生人形机器人正式开启交付，首批交付对象包括上海永达集团、北京波士集团和韩国 Galaxy 机器人乐园。该系列 6 月 30 日发布，U1 Lite 11.98 万元、Pro 16.98 万元、Ultra 男版 99 万元/女版 88 万元，88 个自由度，配备仿生皮肤、仿生颈椎与针对长期陪伴场景的情感大模型，官方称可识别 20 余种细粒度情绪；发布以来全渠道订单已突破 1.3 万台。",
+        "reason": "从概念发布到首批交付的关键节点，首批买家构成（经销商集团+海外机器人乐园）与此前「高价迎宾」的质疑互为印证。",
+        "collectedAt": "2026-10-23"
       }
     ]
   },
