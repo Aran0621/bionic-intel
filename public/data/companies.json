@@ -35,6 +35,15 @@
     "blurb": "哥大 Hod Lipson 实验室血统，专攻「先把一张脸做好」：200+ 微表情节点、0.5mm 精度硅胶皮肤、情绪基座模型 CharacterMind，累计 7 轮融资。",
     "timeline": [
       {
+        "id": "2026-10-22-aheadform-wow-tianyi-party-17173",
+        "date": "2026-10-22",
+        "title": "17173：《魔兽世界》「无限派对：地上达拉然」线下活动实展首形天裔仿生机器人，「远看几乎与真人无二」",
+        "source": "17173游戏新闻",
+        "sourceUrl": "http://news.17173.com/content/10222026/105126389.shtml",
+        "score": 68,
+        "eventId": "aheadform-wow-tianyi"
+      },
+      {
         "id": "2026-10-20-bionic-track-survey-dutenews",
         "date": "2026-10-20",
         "title": "读特「科创圳观察」：超仿生人形机器人，新赛道还是新噱头？",
@@ -1121,6 +1130,15 @@
     ],
     "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。",
     "timeline": [
+      {
+        "id": "2026-10-23-realbotix-onconetix-bridge-loan-businesswire",
+        "date": "2026-10-23",
+        "title": "Realbotix 获 Onconetix 追加 50 万美元过桥贷款，累计 300 万美元，换股收购继续推进",
+        "source": "Business Wire（官方稿）",
+        "sourceUrl": "https://www.businesswire.com/news/home/20261023966631/en/Realbotix-Announces-Additional-Draw-under-Bridge-Loan-from-Onconetix",
+        "score": 72,
+        "eventId": "realbotix-onconetix-acquisition"
+      },
       {
         "id": "2026-10-20-realbotix-ces2027-businesswire",
         "date": "2026-10-20",

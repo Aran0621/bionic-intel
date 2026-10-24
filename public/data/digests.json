@@ -1,5 +1,28 @@
 [
   {
+    "date": "2026-10-23",
+    "headline": "Realbotix 获 Onconetix 追加 50 万美元过桥贷款，累计 300 万美元，换股收购继续推进",
+    "picks": [
+      {
+        "id": "2026-10-23-realbotix-onconetix-bridge-loan-businesswire",
+        "date": "2026-10-23",
+        "source": "Business Wire（官方稿）",
+        "sourceUrl": "https://www.businesswire.com/news/home/20261023966631/en/Realbotix-Announces-Additional-Draw-under-Bridge-Loan-from-Onconetix",
+        "score": 72,
+        "eventId": "realbotix-onconetix-acquisition",
+        "companies": [
+          "realbotix"
+        ],
+        "title": "Realbotix 获 Onconetix 追加 50 万美元过桥贷款，累计 300 万美元，换股收购继续推进",
+        "summary": "Realbotix 官方稿：Onconetix（Nasdaq: ONCO）对 Realbotix LLC 追加 50 万美元过桥贷款，累计过桥融资达 300 万美元。双方已于 2026 年 2 月 12 日签署换股收购协议，交易完成后合并公司将在 Nasdaq 挂牌交易。超仿生机器人公司借并购路径登陆资本市场的案例再进一步。",
+        "reason": "超仿生头部公司 Realbotix 的资本化关键节点：过桥贷款追加说明收购交易仍在推进，借壳上市路径清晰。",
+        "collectedAt": "2026-10-24"
+      }
+    ],
+    "eventCount": 1,
+    "itemCount": 1
+  },
+  {
     "date": "2026-10-22",
     "headline": "虎嗅：人形机器人日租较年初下跌七成，厂商加速铺渠道但交付与运维瓶颈凸显",
     "picks": [
@@ -32,10 +55,25 @@
         "summary": "格隆汇披露优必选中期业绩细节：上半年总营收 12.7 亿元、同比增长 104.2%；人形机器人总销量 16123 台、同比增长 268.3%；其中全尺寸具身智能人形机器人收入 5.9 亿元、同比增长 1445%，销量 921 台、同比增长 1946.7%。上半年研发投入超 3 亿元，预计全年研发费用达 7 亿元；自研基座大模型 Thinker 在 10B 以下评测中获 9 项全球第一。",
         "reason": "同事件新报道方：格隆汇给出收入结构与研发口径的完整数字，与读特稿互补，归入半年报聚簇。",
         "collectedAt": "2026-10-23"
+      },
+      {
+        "id": "2026-10-22-aheadform-wow-tianyi-party-17173",
+        "date": "2026-10-22",
+        "source": "17173游戏新闻",
+        "sourceUrl": "http://news.17173.com/content/10222026/105126389.shtml",
+        "score": 68,
+        "eventId": "aheadform-wow-tianyi",
+        "companies": [
+          "aheadform"
+        ],
+        "title": "17173：《魔兽世界》「无限派对：地上达拉然」线下活动实展首形天裔仿生机器人，「远看几乎与真人无二」",
+        "summary": "17173 报道《魔兽世界》线下活动「无限派对：地上达拉然」，首形科技以新种族「天裔族」为原型的仿生机器人在现场实展，媒体描述其外观「远看几乎与真人无二」。继官宣联动后，该仿生机器人首次在线下玩家活动中公开亮相。",
+        "reason": "同一联动事件的新报道方与新进展：从官宣走向线下实展，游戏 IP 实体化的落地场景被验证。",
+        "collectedAt": "2026-10-24"
       }
     ],
-    "eventCount": 2,
-    "itemCount": 2
+    "eventCount": 3,
+    "itemCount": 3
   },
   {
     "date": "2026-10-21",

@@ -1600,5 +1600,35 @@
     "summary": "虎嗅深度报道：人形机器人租赁价格较年初下跌约七成，厂商转而加速铺设渠道。优必选 7 月与波士集团签约京津冀首家仿生人形机器人授权合作，把 U1 放进奔驰、现代等汽车 4S 店，合作方需承担体验、租赁、场景落地、标准化交付与官方维保；10 月与建发股份的合作进一步延伸到渠道、供应链、融资租赁和海外运营。文章判断：用途尚未定型的超仿生产品，门店只解决「在哪里看见」，成交取决于到场后能做什么、出问题谁负责。",
     "reason": "租金暴跌与渠道扩张并置，点破当下超仿生机器人商业化的真问题：不是没人看，而是「能用」还没补上。",
     "collectedAt": "2026-10-23"
+  },
+  {
+    "id": "2026-10-23-realbotix-onconetix-bridge-loan-businesswire",
+    "date": "2026-10-23",
+    "source": "Business Wire（官方稿）",
+    "sourceUrl": "https://www.businesswire.com/news/home/20261023966631/en/Realbotix-Announces-Additional-Draw-under-Bridge-Loan-from-Onconetix",
+    "score": 72,
+    "eventId": "realbotix-onconetix-acquisition",
+    "companies": [
+      "realbotix"
+    ],
+    "title": "Realbotix 获 Onconetix 追加 50 万美元过桥贷款，累计 300 万美元，换股收购继续推进",
+    "summary": "Realbotix 官方稿：Onconetix（Nasdaq: ONCO）对 Realbotix LLC 追加 50 万美元过桥贷款，累计过桥融资达 300 万美元。双方已于 2026 年 2 月 12 日签署换股收购协议，交易完成后合并公司将在 Nasdaq 挂牌交易。超仿生机器人公司借并购路径登陆资本市场的案例再进一步。",
+    "reason": "超仿生头部公司 Realbotix 的资本化关键节点：过桥贷款追加说明收购交易仍在推进，借壳上市路径清晰。",
+    "collectedAt": "2026-10-24"
+  },
+  {
+    "id": "2026-10-22-aheadform-wow-tianyi-party-17173",
+    "date": "2026-10-22",
+    "source": "17173游戏新闻",
+    "sourceUrl": "http://news.17173.com/content/10222026/105126389.shtml",
+    "score": 68,
+    "eventId": "aheadform-wow-tianyi",
+    "companies": [
+      "aheadform"
+    ],
+    "title": "17173：《魔兽世界》「无限派对：地上达拉然」线下活动实展首形天裔仿生机器人，「远看几乎与真人无二」",
+    "summary": "17173 报道《魔兽世界》线下活动「无限派对：地上达拉然」，首形科技以新种族「天裔族」为原型的仿生机器人在现场实展，媒体描述其外观「远看几乎与真人无二」。继官宣联动后，该仿生机器人首次在线下玩家活动中公开亮相。",
+    "reason": "同一联动事件的新报道方与新进展：从官宣走向线下实展，游戏 IP 实体化的落地场景被验证。",
+    "collectedAt": "2026-10-24"
   }
 ]
