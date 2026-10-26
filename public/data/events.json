@@ -2172,6 +2172,36 @@
     ]
   },
   {
+    "id": "noetix-hkex-ipo",
+    "title": "传松延动力已秘密递表港交所：计划募资数亿美元，最快 2027 年挂牌",
+    "date": "2026-10-23",
+    "heat": 74,
+    "reportCount": 1,
+    "sources": [
+      "网易科技（援引彭博社）"
+    ],
+    "companies": [
+      "noetix"
+    ],
+    "items": [
+      {
+        "id": "2026-10-23-noetix-hkex-ipo-163",
+        "date": "2026-10-23",
+        "source": "网易科技（援引彭博社）",
+        "sourceUrl": "https://www.163.com/tech/article/L9U28QVB00098IEO.html",
+        "score": 74,
+        "eventId": "noetix-hkex-ipo",
+        "companies": [
+          "noetix"
+        ],
+        "title": "传松延动力已秘密递表港交所：计划募资数亿美元，最快 2027 年挂牌",
+        "summary": "网易科技援引彭博社知情人士消息：宁德时代参投的松延动力（Noetix Robotics）已以保密形式向港交所提交上市申请，计划集资数亿美元，最快 2027 年挂牌，IPO 规模与时间表尚未最终确定。公司走「双足+仿生」双线，产品覆盖 Bumi 小布米、N2、E1 及仿生机器人 Hobbs、小诺；2026 年 2 月完成股改，累计完成 9 轮融资，B 轮累计近 10 亿元，由宁德时代系晨道资本领投。",
+        "reason": "仿生头部赛道头部公司启动港股 IPO，是继优必选之后又一家冲向资本市场的仿生机器人玩家，赛道资本化再提速。",
+        "collectedAt": "2026-10-26"
+      }
+    ]
+  },
+  {
     "id": "bionic-humanoid-track-survey",
     "title": "读特「科创圳观察」：超仿生人形机器人，新赛道还是新噱头？",
     "date": "2026-10-20",
@@ -2758,6 +2788,36 @@
         "summary": "卓益得官网：公司以「仿生本体+多模态智能体」为核心技术，以肌腱驱动、仿生表情、安全轻量化三大技术为支撑，以情感计算、自然交互、拟人操作三大能力为特色；产品落地康养陪护、情感陪伴、顾问接待、文娱表演场景。成就列表含全球首款肌腱驱动全尺寸双足人形 X02、全球首款可量产全自由度表情机器人睿娜、吉尼斯行走 100 公里的 X01。",
         "reason": "官方技术路线与产品谱系的权威定义页。",
         "collectedAt": "2026-09-29"
+      }
+    ]
+  },
+  {
+    "id": "digit-xialan-physicalai-conf",
+    "title": "夏澜 R03 担任物理 AI 与世界模型大会接待员，RoboEase 场景大脑调度多机器人协同",
+    "date": "2026-10-23",
+    "heat": 66,
+    "reportCount": 1,
+    "sources": [
+      "新黄河客户端（南京日报稿件）"
+    ],
+    "companies": [
+      "digit"
+    ],
+    "items": [
+      {
+        "id": "2026-10-23-digit-xialan-physicalai-conf-jinantimes",
+        "date": "2026-10-23",
+        "source": "新黄河客户端（南京日报稿件）",
+        "sourceUrl": "https://www.jinantimes.com.cn/news-95-11106813.html",
+        "score": 66,
+        "eventId": "digit-xialan-physicalai-conf",
+        "companies": [
+          "digit"
+        ],
+        "title": "夏澜 R03 担任物理 AI 与世界模型大会接待员，RoboEase 场景大脑调度多机器人协同",
+        "summary": "新黄河客户端报道（南京日报/紫金山新闻稿件）：物理 AI 与世界模型大会现场，数字华夏夏澜 R03 仿生人形机器人担任开幕式外场接待员，应答流畅、表情交互逼真；星行侠 P2 机器人现场表演舞蹈。「RoboEase」场景大脑以图形化拖拽编排业务，工作人员可在驾驶舱界面实时查看全场机器人位置与状态，统一监控调度，实现多机器人协同作业。",
+        "reason": "仿生机器人从展台走向大会真实会务岗位：接待、表演、多机调度一次跑通，是场景落地的连续验证。",
+        "collectedAt": "2026-10-26"
       }
     ]
   },

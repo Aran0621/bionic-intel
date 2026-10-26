@@ -796,6 +796,15 @@
     "blurb": "清华系团队，N2 以 3.99 万低价+连续后空翻破圈，仿生命线「小诺」（32 面部自由度、铂金硅胶）曾登春晚；「小月」001 号京东首拍 11.08 万元。",
     "timeline": [
       {
+        "id": "2026-10-23-noetix-hkex-ipo-163",
+        "date": "2026-10-23",
+        "title": "传松延动力已秘密递表港交所：计划募资数亿美元，最快 2027 年挂牌",
+        "source": "网易科技（援引彭博社）",
+        "sourceUrl": "https://www.163.com/tech/article/L9U28QVB00098IEO.html",
+        "score": 74,
+        "eventId": "noetix-hkex-ipo"
+      },
+      {
         "id": "2026-10-17-noetix-theme-park-ip",
         "date": "2026-10-17",
         "title": "松延动力 CMO 张淼：仿生机器人将作为 IP 共创载体进入主题公园",
@@ -921,6 +930,15 @@
     ],
     "blurb": "「有温度的人形机器人」B 端路线代表：夏澜系列 29+ 主动自由度、自研情商模型与「巨号」交互平台，客户覆盖政务、银行、电网、央国企，成立一年揽 4 亿元订单。",
     "timeline": [
+      {
+        "id": "2026-10-23-digit-xialan-physicalai-conf-jinantimes",
+        "date": "2026-10-23",
+        "title": "夏澜 R03 担任物理 AI 与世界模型大会接待员，RoboEase 场景大脑调度多机器人协同",
+        "source": "新黄河客户端（南京日报稿件）",
+        "sourceUrl": "https://www.jinantimes.com.cn/news-95-11106813.html",
+        "score": 66,
+        "eventId": "digit-xialan-physicalai-conf"
+      },
       {
         "id": "2026-10-18-digit-angel-plus-36kr",
         "date": "2026-10-18",
