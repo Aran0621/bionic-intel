@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026-10-26-realbotix-echo-launch-businesswire",
+    "date": "2026-10-26",
+    "source": "Business Wire（官方稿）",
+    "sourceUrl": "https://www.businesswire.com/news/home/20261026986313/en/Realbotix-Launches-Echo-Humanoid-Robot-Line",
+    "score": 76,
+    "eventId": "realbotix-echo-launch",
+    "companies": [
+      "realbotix"
+    ],
+    "title": "Realbotix 发布 Echo 人形机器人产品线，将亮相 CES 2027",
+    "summary": "Realbotix（TSX-V: XBOT）通过 Business Wire 官方稿宣布推出全新 Echo 人形机器人产品线，并确认该产品线将亮相 CES 2027。Echo 定位于公司下一代仿真人形机器人产品系列，官方稿未披露售价与具体交付节奏。",
+    "reason": "官方一手发布的新仿真人形产品线，赛道核心厂商产品节奏更新。",
+    "collectedAt": "2026-10-27"
+  },
+  {
+    "id": "2026-10-26-ubtech-u1-delivery-sohu",
+    "date": "2026-10-26",
+    "source": "搜狐时间线",
+    "sourceUrl": "https://timeline.sohu.com/news/o4vH7yUqRl",
+    "score": 70,
+    "eventId": "ubtech-u1-delivery",
+    "companies": [
+      "ubtech"
+    ],
+    "title": "优必选 U1 交付「罗生门」：官宣已启动交付，旗舰店客服称首批顺延至 11 月底之后",
+    "summary": "搜狐时间线梳理：优必选 9 月 28 日声明称 U1 已启动交付，但天猫、京东旗舰店客服表示首批交付顺延至 11 月 30 日之后；CFO 张钜在 8 月 30 日财报电话会上称年内实际交付约 1500–2000 台，约为 13361 台订单的一到两成；首批交付实际流向门店展示、商业接待与文旅等 B 端场景，C 端家庭陪伴尚未落地；公司股价 9 月底创 52 周新低。",
+    "reason": "同一交付事件的新报道方：官宣口径、渠道口径与财报口径三方对照，是交付争议聚簇的阶段性复盘。",
+    "collectedAt": "2026-10-27"
+  },
+  {
     "id": "2026-10-23-noetix-hkex-ipo-163",
     "date": "2026-10-23",
     "source": "网易科技（援引彭博社）",
