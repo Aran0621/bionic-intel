@@ -837,6 +837,68 @@
     ]
   },
   {
+    "id": "ubtech-2026h1-earnings",
+    "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
+    "date": "2026-10-27",
+    "heat": 87,
+    "reportCount": 3,
+    "sources": [
+      "读特新闻",
+      "格隆汇",
+      "网易新闻"
+    ],
+    "companies": [
+      "ubtech"
+    ],
+    "items": [
+      {
+        "id": "2026-10-20-ubtech-2026h1-earnings-dutenews",
+        "date": "2026-10-20",
+        "source": "读特新闻",
+        "sourceUrl": "https://m.dutenews.com/n/article/60073265",
+        "score": 73,
+        "eventId": "ubtech-2026h1-earnings",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
+        "summary": "读特报道优必选 2026 年上半年业绩：总营收在人形机器人公司中位列全球第一，人形机器人总销量 16123 台斩获全球第一；6 月集中推出工业人形 Cruzr Y1、商用 Walker C1、超仿生优世界 U1 三大新品，下半年 Walker、Cruzr、U1 系列将全面交付，工业侧客户覆盖空客、比亚迪、吉利、富士康等。",
+        "reason": "财报季的关键数据点：U1 所在的消费仿生线与工业线首次在同一份半年报里同框，「全面交付」承诺与此前交付缩水报道形成对照。",
+        "collectedAt": "2026-10-22"
+      },
+      {
+        "id": "2026-10-22-ubtech-2026h1-earnings-gelonghui",
+        "date": "2026-10-22",
+        "source": "格隆汇",
+        "sourceUrl": "https://www.gelonghui.com/news/5299932",
+        "score": 72,
+        "eventId": "ubtech-2026h1-earnings",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "格隆汇：优必选 2026H1 营收 12.7 亿元，全尺寸人形机器人收入暴增 1445%",
+        "summary": "格隆汇披露优必选中期业绩细节：上半年总营收 12.7 亿元、同比增长 104.2%；人形机器人总销量 16123 台、同比增长 268.3%；其中全尺寸具身智能人形机器人收入 5.9 亿元、同比增长 1445%，销量 921 台、同比增长 1946.7%。上半年研发投入超 3 亿元，预计全年研发费用达 7 亿元；自研基座大模型 Thinker 在 10B 以下评测中获 9 项全球第一。",
+        "reason": "同事件新报道方：格隆汇给出收入结构与研发口径的完整数字，与读特稿互补，归入半年报聚簇。",
+        "collectedAt": "2026-10-23"
+      },
+      {
+        "id": "2026-10-27-ubtech-2026h1-earnings-163",
+        "date": "2026-10-27",
+        "source": "网易新闻",
+        "sourceUrl": "https://www.163.com/dy/article/LA981DMV0519B8U3.html",
+        "score": 70,
+        "eventId": "ubtech-2026h1-earnings",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "网易：营收超宇树科技，优必选人形机器人销量承压——U1 年内交付预期仅 1500-2000 台",
+        "summary": "网易分析优必选 2026 中报：上半年营收 12.7 亿元、同比增长 104.2%，毛利率 44.7%（同比提升 9.7 个百分点），但全尺寸人形机器人销量 921 台、环比承压；消费级 U1 系列订单据称超 1.3 万台，管理层在业绩电话会上给出的年内交付预期仅 1500—2000 台，且中报正文未披露 U1 交付数据；存货由 5.77 亿元增至 9.85 亿元（+70.9%），与下半年集中交付备货逻辑一致；Walker S 系列交付目标上调至 5000 台并绑定员工股权激励。",
+        "reason": "同一中报事件的新报道方：从订单转化率与产能利用率角度拆解 U1 交付压力。",
+        "collectedAt": "2026-10-28"
+      }
+    ]
+  },
+  {
     "id": "aheadform-wow-tianyi",
     "title": "首形科技联动《魔兽世界》：以新种族「天裔族」为原型的仿生机器人亮相",
     "date": "2026-10-22",
@@ -1346,6 +1408,52 @@
     ]
   },
   {
+    "id": "realbotix-echo-launch",
+    "title": "Realbotix 发布 Echo 人形机器人产品线，将亮相 CES 2027",
+    "date": "2026-10-27",
+    "heat": 83,
+    "reportCount": 2,
+    "sources": [
+      "Business Wire（官方稿）",
+      "多知网"
+    ],
+    "companies": [
+      "realbotix"
+    ],
+    "items": [
+      {
+        "id": "2026-10-26-realbotix-echo-launch-businesswire",
+        "date": "2026-10-26",
+        "source": "Business Wire（官方稿）",
+        "sourceUrl": "https://www.businesswire.com/news/home/20261026986313/en/Realbotix-Launches-Echo-Humanoid-Robot-Line",
+        "score": 76,
+        "eventId": "realbotix-echo-launch",
+        "companies": [
+          "realbotix"
+        ],
+        "title": "Realbotix 发布 Echo 人形机器人产品线，将亮相 CES 2027",
+        "summary": "Realbotix（TSX-V: XBOT）通过 Business Wire 官方稿宣布推出全新 Echo 人形机器人产品线，并确认该产品线将亮相 CES 2027。Echo 定位于公司下一代仿真人形机器人产品系列，官方稿未披露售价与具体交付节奏。",
+        "reason": "官方一手发布的新仿真人形产品线，赛道核心厂商产品节奏更新。",
+        "collectedAt": "2026-10-27"
+      },
+      {
+        "id": "2026-10-27-realbotix-echo-launch-duozhi",
+        "date": "2026-10-27",
+        "source": "多知网",
+        "sourceUrl": "http://www.duozhi.com/industry/insight/2026102718924.shtml",
+        "score": 68,
+        "eventId": "realbotix-echo-launch",
+        "companies": [
+          "realbotix"
+        ],
+        "title": "多知网：Realbotix 发布 Echo 系列，桌面版 11950 美元明确面向一对一教学",
+        "summary": "多知网报道：Realbotix 推出 Echo 人形机器人系列，面向陪伴、教育与健康养生场景——Echo Tabletop 售价 11950 美元、重 25 磅、17 个自由度，定位一对一教学、治疗与个人健康；Echo Full Body 售价 59950 美元、39 个自由度，首批计划 2027 年交付。可选 Vinci 视觉系统在本地处理对话与视觉信息，支持面部识别、情绪线索检测与视线追踪；Aria、Mila、Dave、Amar 四个角色可选。报道同时提及 Realbotix 机器人 Sally 在纽约州萨拉曼卡学区担任「助教」的试点，因校方对学生数据隐私及公司收购史（成人玩偶公司 Simulacra）的担忧而暂停。",
+        "reason": "同一发布事件的新报道方：教育行业媒体视角，明确桌面版教学定位并补充校园试点波折。",
+        "collectedAt": "2026-10-28"
+      }
+    ]
+  },
+  {
     "id": "jinma-bionic-head",
     "title": "金马游乐定增文件：募资投入「表情控制人形仿生机器人头部系统」研发，对标 Ameca",
     "date": "2026-09-29",
@@ -1424,6 +1532,52 @@
     ]
   },
   {
+    "id": "noetix-hkex-ipo",
+    "title": "澎湃/国际金融报：松延动力被传秘密递表港交所，拟募资数亿美元最快 2027 年挂牌",
+    "date": "2026-10-27",
+    "heat": 81,
+    "reportCount": 2,
+    "sources": [
+      "澎湃新闻（国际金融报）",
+      "网易科技（援引彭博社）"
+    ],
+    "companies": [
+      "noetix"
+    ],
+    "items": [
+      {
+        "id": "2026-10-27-noetix-hkex-ipo-thepaper",
+        "date": "2026-10-27",
+        "source": "澎湃新闻（国际金融报）",
+        "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34344841",
+        "score": 74,
+        "eventId": "noetix-hkex-ipo",
+        "companies": [
+          "noetix"
+        ],
+        "title": "澎湃/国际金融报：松延动力被传秘密递表港交所，拟募资数亿美元最快 2027 年挂牌",
+        "summary": "澎湃新闻转发国际金融报报道：松延动力已以保密形式向港交所递交上市申请，计划集资数亿美元，最快 2027 年挂牌；10 月 27 日记者向公司求证，截至发稿未获回应，港交所披露易暂无法查询到申请文件，按规则需通过聆讯后才会公开。公司产品矩阵覆盖双足 N/E 系列、消费级小布米、仿生人形机器人小诺、轮式导览 W1 及仿生人头小月，应用于教育、家庭陪伴、商业服务与文旅导览等场景。",
+        "reason": "同一递表事件的新报道方：权威财经媒体跟进求证，补充产品矩阵与披露进展细节。",
+        "collectedAt": "2026-10-28"
+      },
+      {
+        "id": "2026-10-23-noetix-hkex-ipo-163",
+        "date": "2026-10-23",
+        "source": "网易科技（援引彭博社）",
+        "sourceUrl": "https://www.163.com/tech/article/L9U28QVB00098IEO.html",
+        "score": 74,
+        "eventId": "noetix-hkex-ipo",
+        "companies": [
+          "noetix"
+        ],
+        "title": "传松延动力已秘密递表港交所：计划募资数亿美元，最快 2027 年挂牌",
+        "summary": "网易科技援引彭博社知情人士消息：宁德时代参投的松延动力（Noetix Robotics）已以保密形式向港交所提交上市申请，计划集资数亿美元，最快 2027 年挂牌，IPO 规模与时间表尚未最终确定。公司走「双足+仿生」双线，产品覆盖 Bumi 小布米、N2、E1 及仿生机器人 Hobbs、小诺；2026 年 2 月完成股改，累计完成 9 轮融资，B 轮累计近 10 亿元，由宁德时代系晨道资本领投。",
+        "reason": "仿生头部赛道头部公司启动港股 IPO，是继优必选之后又一家冲向资本市场的仿生机器人玩家，赛道资本化再提速。",
+        "collectedAt": "2026-10-26"
+      }
+    ]
+  },
+  {
     "id": "clone-protoclone",
     "title": "Clone Protoclone V1 设计解析：聚合物骨骼+结构线缆+人造肌腱单元",
     "date": "2026-06-12",
@@ -1498,52 +1652,6 @@
         "summary": "电商渠道信息显示，NOETIX 松延动力仿生人形机器人小诺在京东自营上架，活动售价 398,000 元，100% 参与投票的值友认为「值」。小诺定位高仿真情感交互机器人。",
         "reason": "仿生机器人明码标价上架主流电商，商业化进程的直接证据。",
         "collectedAt": "2026-09-29"
-      }
-    ]
-  },
-  {
-    "id": "ubtech-2026h1-earnings",
-    "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
-    "date": "2026-10-22",
-    "heat": 80,
-    "reportCount": 2,
-    "sources": [
-      "读特新闻",
-      "格隆汇"
-    ],
-    "companies": [
-      "ubtech"
-    ],
-    "items": [
-      {
-        "id": "2026-10-20-ubtech-2026h1-earnings-dutenews",
-        "date": "2026-10-20",
-        "source": "读特新闻",
-        "sourceUrl": "https://m.dutenews.com/n/article/60073265",
-        "score": 73,
-        "eventId": "ubtech-2026h1-earnings",
-        "companies": [
-          "ubtech"
-        ],
-        "title": "优必选 2026 上半年营收同比增长 104.2%，人形机器人销量 16123 台",
-        "summary": "读特报道优必选 2026 年上半年业绩：总营收在人形机器人公司中位列全球第一，人形机器人总销量 16123 台斩获全球第一；6 月集中推出工业人形 Cruzr Y1、商用 Walker C1、超仿生优世界 U1 三大新品，下半年 Walker、Cruzr、U1 系列将全面交付，工业侧客户覆盖空客、比亚迪、吉利、富士康等。",
-        "reason": "财报季的关键数据点：U1 所在的消费仿生线与工业线首次在同一份半年报里同框，「全面交付」承诺与此前交付缩水报道形成对照。",
-        "collectedAt": "2026-10-22"
-      },
-      {
-        "id": "2026-10-22-ubtech-2026h1-earnings-gelonghui",
-        "date": "2026-10-22",
-        "source": "格隆汇",
-        "sourceUrl": "https://www.gelonghui.com/news/5299932",
-        "score": 72,
-        "eventId": "ubtech-2026h1-earnings",
-        "companies": [
-          "ubtech"
-        ],
-        "title": "格隆汇：优必选 2026H1 营收 12.7 亿元，全尺寸人形机器人收入暴增 1445%",
-        "summary": "格隆汇披露优必选中期业绩细节：上半年总营收 12.7 亿元、同比增长 104.2%；人形机器人总销量 16123 台、同比增长 268.3%；其中全尺寸具身智能人形机器人收入 5.9 亿元、同比增长 1445%，销量 921 台、同比增长 1946.7%。上半年研发投入超 3 亿元，预计全年研发费用达 7 亿元；自研基座大模型 Thinker 在 10B 以下评测中获 9 项全球第一。",
-        "reason": "同事件新报道方：格隆汇给出收入结构与研发口径的完整数字，与读特稿互补，归入半年报聚簇。",
-        "collectedAt": "2026-10-23"
       }
     ]
   },
@@ -1948,36 +2056,6 @@
     ]
   },
   {
-    "id": "realbotix-echo-launch",
-    "title": "Realbotix 发布 Echo 人形机器人产品线，将亮相 CES 2027",
-    "date": "2026-10-26",
-    "heat": 76,
-    "reportCount": 1,
-    "sources": [
-      "Business Wire（官方稿）"
-    ],
-    "companies": [
-      "realbotix"
-    ],
-    "items": [
-      {
-        "id": "2026-10-26-realbotix-echo-launch-businesswire",
-        "date": "2026-10-26",
-        "source": "Business Wire（官方稿）",
-        "sourceUrl": "https://www.businesswire.com/news/home/20261026986313/en/Realbotix-Launches-Echo-Humanoid-Robot-Line",
-        "score": 76,
-        "eventId": "realbotix-echo-launch",
-        "companies": [
-          "realbotix"
-        ],
-        "title": "Realbotix 发布 Echo 人形机器人产品线，将亮相 CES 2027",
-        "summary": "Realbotix（TSX-V: XBOT）通过 Business Wire 官方稿宣布推出全新 Echo 人形机器人产品线，并确认该产品线将亮相 CES 2027。Echo 定位于公司下一代仿真人形机器人产品系列，官方稿未披露售价与具体交付节奏。",
-        "reason": "官方一手发布的新仿真人形产品线，赛道核心厂商产品节奏更新。",
-        "collectedAt": "2026-10-27"
-      }
-    ]
-  },
-  {
     "id": "humanoid-rental-price-drop",
     "title": "虎嗅：人形机器人日租较年初下跌七成，厂商加速铺渠道但交付与运维瓶颈凸显",
     "date": "2026-10-22",
@@ -2214,36 +2292,6 @@
         "summary": "2025 世界机器人大会上，数字华夏展示夏澜、夏起、星行侠、卫小鹿全线产品：夏澜新增 7 大类 22 种表情并实现人类表情模仿，装备电子皮肤感知触觉、温度和脉搏变化；星行侠已获数百台订单。",
         "reason": "电子皮肤+表情模仿的组合，是夏澜产品线年度迭代的分水岭。",
         "collectedAt": "2026-09-29"
-      }
-    ]
-  },
-  {
-    "id": "noetix-hkex-ipo",
-    "title": "传松延动力已秘密递表港交所：计划募资数亿美元，最快 2027 年挂牌",
-    "date": "2026-10-23",
-    "heat": 74,
-    "reportCount": 1,
-    "sources": [
-      "网易科技（援引彭博社）"
-    ],
-    "companies": [
-      "noetix"
-    ],
-    "items": [
-      {
-        "id": "2026-10-23-noetix-hkex-ipo-163",
-        "date": "2026-10-23",
-        "source": "网易科技（援引彭博社）",
-        "sourceUrl": "https://www.163.com/tech/article/L9U28QVB00098IEO.html",
-        "score": 74,
-        "eventId": "noetix-hkex-ipo",
-        "companies": [
-          "noetix"
-        ],
-        "title": "传松延动力已秘密递表港交所：计划募资数亿美元，最快 2027 年挂牌",
-        "summary": "网易科技援引彭博社知情人士消息：宁德时代参投的松延动力（Noetix Robotics）已以保密形式向港交所提交上市申请，计划集资数亿美元，最快 2027 年挂牌，IPO 规模与时间表尚未最终确定。公司走「双足+仿生」双线，产品覆盖 Bumi 小布米、N2、E1 及仿生机器人 Hobbs、小诺；2026 年 2 月完成股改，累计完成 9 轮融资，B 轮累计近 10 亿元，由宁德时代系晨道资本领投。",
-        "reason": "仿生头部赛道头部公司启动港股 IPO，是继优必选之后又一家冲向资本市场的仿生机器人玩家，赛道资本化再提速。",
-        "collectedAt": "2026-10-26"
       }
     ]
   },
