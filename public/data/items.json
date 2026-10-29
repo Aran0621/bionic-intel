@@ -1,5 +1,18 @@
 [
   {
+    "id": "2026-10-29-lingyan-seed-funding-eefocus",
+    "date": "2026-10-29",
+    "source": "与非网",
+    "sourceUrl": "https://www.eefocus.com/article/2110468.html",
+    "score": 78,
+    "eventId": "lingyan-seed-funding",
+    "companies": [],
+    "title": "灵颜科技完成数千万元种子轮及种子+轮融资，00 后团队做人形机器人仿生脸模组",
+    "summary": "与非网报道：灵颜科技完成数千万元种子轮及种子+轮融资，投资方包括盈动资本、毅达资本、梅花创投。公司 2026 年 6 月成立于杭州，创始人赵常屹，核心方向是人形机器人仿生脸（灵巧脸）模组：32 个自由度，自研 FaceSoul Agent 架构（Face 负责仿生皮肤、肌肉传动等高保真物理呈现，Soul 承载情绪引擎与表情生成算法），杏仁体情绪建模支持无上限细腻表情生成、延迟控制在 10 毫秒以内，音唇眼低延迟协同。产品矩阵含灵枢 M1（教育科研）、灵枢 W1（商用导览接待）、灵韵（家庭情绪陪伴）与灵能（面向主机厂的标准化面部模组，定价有望万元以下）。技术脱胎于吉林大学工程仿生教育部重点实验室。",
+    "reason": "赛道上游新玩家：专攻仿生脸/表情生成这一「恐怖谷」工程窄门，四个月两轮数千万融资，技术参数披露详实。",
+    "collectedAt": "2026-10-29"
+  },
+  {
     "id": "2026-10-27-noetix-hkex-ipo-thepaper",
     "date": "2026-10-27",
     "source": "澎湃新闻（国际金融报）",
@@ -13,6 +26,21 @@
     "summary": "澎湃新闻转发国际金融报报道：松延动力已以保密形式向港交所递交上市申请，计划集资数亿美元，最快 2027 年挂牌；10 月 27 日记者向公司求证，截至发稿未获回应，港交所披露易暂无法查询到申请文件，按规则需通过聆讯后才会公开。公司产品矩阵覆盖双足 N/E 系列、消费级小布米、仿生人形机器人小诺、轮式导览 W1 及仿生人头小月，应用于教育、家庭陪伴、商业服务与文旅导览等场景。",
     "reason": "同一递表事件的新报道方：权威财经媒体跟进求证，补充产品矩阵与披露进展细节。",
     "collectedAt": "2026-10-28"
+  },
+  {
+    "id": "2026-10-27-realbotix-echo-launch-onconetix-gnw",
+    "date": "2026-10-27",
+    "source": "GlobeNewswire（Onconetix 官方稿）",
+    "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/27/3388990/0/en/onconetix-acquisition-target-realbotix-launches-echo-humanoid-robot-line-with-tabletop-and-full-body-models-designed-for-education-wellness-and-social-engagement.html",
+    "score": 72,
+    "eventId": "realbotix-echo-launch",
+    "companies": [
+      "realbotix"
+    ],
+    "title": "Onconetix 官方稿：收购标的 Realbotix 发布 Echo 人形机器人产品线，首批 250 台 2027 年交付",
+    "summary": "Onconetix（Nasdaq: ONCO）通过 GlobeNewswire 发布官方稿，向其股东通报收购标的 Realbotix 的 Echo 产品线发布：Echo Tabletop 定价 11950 美元、Echo Full Body 定价 59950 美元，首批量产 225 台桌面版加 25 台全身版，预计 2027 年下半年交付。Onconetix 于 2026 年 2 月 12 日签署最终股权交换协议，拟以全股票交易收购 Realbotix LLC 100% 股权，合并后公司拟在纳斯达克交易，交割尚待股东批准与监管审批。",
+    "reason": "同一发布事件的收购方官方口径：把 Echo 发布与 Onconetix 收购进程并置，资本运作坐标更清晰。",
+    "collectedAt": "2026-10-29"
   },
   {
     "id": "2026-10-27-ubtech-2026h1-earnings-163",
@@ -73,6 +101,36 @@
     "summary": "搜狐时间线梳理：优必选 9 月 28 日声明称 U1 已启动交付，但天猫、京东旗舰店客服表示首批交付顺延至 11 月 30 日之后；CFO 张钜在 8 月 30 日财报电话会上称年内实际交付约 1500–2000 台，约为 13361 台订单的一到两成；首批交付实际流向门店展示、商业接待与文旅等 B 端场景，C 端家庭陪伴尚未落地；公司股价 9 月底创 52 周新低。",
     "reason": "同一交付事件的新报道方：官宣口径、渠道口径与财报口径三方对照，是交付争议聚簇的阶段性复盘。",
     "collectedAt": "2026-10-27"
+  },
+  {
+    "id": "2026-10-26-digit-xialan-physicalai-conf-official",
+    "date": "2026-10-26",
+    "source": "数字华夏官网（官方）",
+    "sourceUrl": "https://www.digit.com.cn/NewsDetail/266.html",
+    "score": 68,
+    "eventId": "digit-xialan-physicalai-conf",
+    "companies": [
+      "digit"
+    ],
+    "title": "官方动态：华夏机器人携夏澜 R03、星行侠 P2、夏起 D02 亮相 2026 物理 AI 与世界模型大会",
+    "summary": "数字华夏官网发布：10 月 19 日至 22 日，2026 物理 AI 与世界模型大会在南京国际博览中心举行，华夏机器人携仿生机器人夏澜 R03、IP 系列星行侠 P2、通用机器人夏起 D02 及 RoboEase 场景平台亮相。综合体验区夏起 D02 值守智能饮品货架，自助点单后自主完成识别、取货、递送与定点放置，全程无需人工介入；开幕式外场夏澜 R03 担任专属接待，支持多语言交流与全双工对话，自主完成迎宾、导引与答疑；RoboEase 驾驶舱统一监控调度全场机器人，实现多机一体化作业。",
+    "reason": "同一大会事件的官方版本：补全三款产品分工与 RoboEase 调度细节，与此前媒体报道互证。",
+    "collectedAt": "2026-10-29"
+  },
+  {
+    "id": "2026-10-26-digit-chishuihe-forum-official",
+    "date": "2026-10-26",
+    "source": "数字华夏官网（官方）",
+    "sourceUrl": "https://www.digit.com.cn/NewsDetail/265.html",
+    "score": 64,
+    "eventId": "digit-chishuihe-forum",
+    "companies": [
+      "digit"
+    ],
+    "title": "官方动态：夏起担任 2026 赤水河论坛官方导览员，人形机器人进国酒文化场景",
+    "summary": "数字华夏官网发布：10 月 17 日，由新华社品牌工作办公室、中国经济信息社、中国茅台联合主办的 2026 赤水河论坛在茅台举行，数字华夏旗下通用人形机器人夏起亮相论坛并担任官方导览员，承担展区导览讲解任务，围绕论坛主题与展示内容为嘉宾提供引导介绍，并通过拟人化外观、流畅动作和智能交互与嘉宾互动。",
+    "reason": "官方一手：人形机器人进入白酒文化论坛做正式导览岗，是交互场景落地的又一例。",
+    "collectedAt": "2026-10-29"
   },
   {
     "id": "2026-10-23-noetix-hkex-ipo-163",

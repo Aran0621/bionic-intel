@@ -958,6 +958,24 @@
     "blurb": "「有温度的人形机器人」B 端路线代表：夏澜系列 29+ 主动自由度、自研情商模型与「巨号」交互平台，客户覆盖政务、银行、电网、央国企，成立一年揽 4 亿元订单。",
     "timeline": [
       {
+        "id": "2026-10-26-digit-xialan-physicalai-conf-official",
+        "date": "2026-10-26",
+        "title": "官方动态：华夏机器人携夏澜 R03、星行侠 P2、夏起 D02 亮相 2026 物理 AI 与世界模型大会",
+        "source": "数字华夏官网（官方）",
+        "sourceUrl": "https://www.digit.com.cn/NewsDetail/266.html",
+        "score": 68,
+        "eventId": "digit-xialan-physicalai-conf"
+      },
+      {
+        "id": "2026-10-26-digit-chishuihe-forum-official",
+        "date": "2026-10-26",
+        "title": "官方动态：夏起担任 2026 赤水河论坛官方导览员，人形机器人进国酒文化场景",
+        "source": "数字华夏官网（官方）",
+        "sourceUrl": "https://www.digit.com.cn/NewsDetail/265.html",
+        "score": 64,
+        "eventId": "digit-chishuihe-forum"
+      },
+      {
         "id": "2026-10-23-digit-xialan-physicalai-conf-jinantimes",
         "date": "2026-10-23",
         "title": "夏澜 R03 担任物理 AI 与世界模型大会接待员，RoboEase 场景大脑调度多机器人协同",
@@ -1175,6 +1193,15 @@
     ],
     "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。",
     "timeline": [
+      {
+        "id": "2026-10-27-realbotix-echo-launch-onconetix-gnw",
+        "date": "2026-10-27",
+        "title": "Onconetix 官方稿：收购标的 Realbotix 发布 Echo 人形机器人产品线，首批 250 台 2027 年交付",
+        "source": "GlobeNewswire（Onconetix 官方稿）",
+        "sourceUrl": "https://www.globenewswire.com/news-release/2026/10/27/3388990/0/en/onconetix-acquisition-target-realbotix-launches-echo-humanoid-robot-line-with-tabletop-and-full-body-models-designed-for-education-wellness-and-social-engagement.html",
+        "score": 72,
+        "eventId": "realbotix-echo-launch"
+      },
       {
         "id": "2026-10-27-realbotix-echo-launch-duozhi",
         "date": "2026-10-27",
