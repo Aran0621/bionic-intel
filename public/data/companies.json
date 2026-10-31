@@ -348,6 +348,15 @@
         "eventId": "ubtech-u1-youth"
       },
       {
+        "id": "2026-10-14-ubtech-u1-first-delivery-nfc",
+        "date": "2026-10-14",
+        "title": "实地探访：优必选 U1 已于 9 月小批量交付终端客户，四季度推「青春版」降门槛",
+        "source": "同花顺财经（转南方财经）",
+        "sourceUrl": "http://news.10jqka.com.cn/20261014/c680697444.shtml",
+        "score": 78,
+        "eventId": "ubtech-u1-first-delivery"
+      },
+      {
         "id": "2026-10-03-ubtech-u1-delivery-qq",
         "date": "2026-10-03",
         "title": "腾讯新闻：13361 台 U1 订单「含意向」不等于锁定交付，H1 全尺寸人形实售 921 台、整体亏 3.39 亿",
@@ -1211,6 +1220,15 @@
     ],
     "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。",
     "timeline": [
+      {
+        "id": "2026-10-28-realbotix-ask-aria-relaunch-morningstar",
+        "date": "2026-10-28",
+        "title": "Realbotix 重新上线 Ask Aria 数字 AI 头像，采用 Echo 仿生机器人同款对话技术",
+        "source": "Morningstar（Business Wire 通稿）",
+        "sourceUrl": "https://www.morningstar.com/news/business-wire/20261028971304/realbotix-relaunched-ask-aria-digital-ai-avatar",
+        "score": 80,
+        "eventId": "realbotix-ask-aria-relaunch"
+      },
       {
         "id": "2026-10-27-realbotix-echo-launch-onconetix-gnw",
         "date": "2026-10-27",

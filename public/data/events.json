@@ -1284,6 +1284,52 @@
     ]
   },
   {
+    "id": "ubtech-u1-first-delivery",
+    "title": "实地探访：优必选 U1 已于 9 月小批量交付终端客户，四季度推「青春版」降门槛",
+    "date": "2026-10-21",
+    "heat": 85,
+    "reportCount": 2,
+    "sources": [
+      "同花顺财经（转南方财经）",
+      "汽车之家车家号（盖世汽车）"
+    ],
+    "companies": [
+      "ubtech"
+    ],
+    "items": [
+      {
+        "id": "2026-10-14-ubtech-u1-first-delivery-nfc",
+        "date": "2026-10-14",
+        "source": "同花顺财经（转南方财经）",
+        "sourceUrl": "http://news.10jqka.com.cn/20261014/c680697444.shtml",
+        "score": 78,
+        "eventId": "ubtech-u1-first-delivery",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "实地探访：优必选 U1 已于 9 月小批量交付终端客户，四季度推「青春版」降门槛",
+        "summary": "历史补录：南方财经记者实地探访优必选，采访优必选首席品牌官焦继超后确认：优世界 U1 已于 9 月小批量交付终端客户，目前处于产能爬坡阶段，四季度将推出「青春版」进一步降低体验门槛。技术细节上，U1 的微表情由模型实时生成并直接驱动舵机，而非播放预设动作；训练采用分布式方案，数据留在本地、仅回传参数，兼顾隐私与迭代效率。焦继超称头部是交互入口，小型化舵机与散热设计是主要工程难点。",
+        "reason": "独家深度：实地探访加高管采访，给出 U1 交付节奏、产能与表情技术路线的一手细节。",
+        "collectedAt": "2026-10-31"
+      },
+      {
+        "id": "2026-10-21-ubtech-u1-first-delivery-autohome",
+        "date": "2026-10-21",
+        "source": "汽车之家车家号（盖世汽车）",
+        "sourceUrl": "https://chejiahao.autohome.com.cn/info/26499557",
+        "score": 70,
+        "eventId": "ubtech-u1-first-delivery",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "优必选 U1 正式开启交付：首批交付上海永达、北京波士与韩国 Galaxy 机器人乐园",
+        "summary": "盖世汽车一周要闻确认：优必选 U1 系列超仿生人形机器人正式开启交付，首批交付对象包括上海永达集团、北京波士集团和韩国 Galaxy 机器人乐园。该系列 6 月 30 日发布，U1 Lite 11.98 万元、Pro 16.98 万元、Ultra 男版 99 万元/女版 88 万元，88 个自由度，配备仿生皮肤、仿生颈椎与针对长期陪伴场景的情感大模型，官方称可识别 20 余种细粒度情绪；发布以来全渠道订单已突破 1.3 万台。",
+        "reason": "从概念发布到首批交付的关键节点，首批买家构成（经销商集团+海外机器人乐园）与此前「高价迎宾」的质疑互为印证。",
+        "collectedAt": "2026-10-23"
+      }
+    ]
+  },
+  {
     "id": "noetix-profile",
     "title": "对话姜哲源：3.99 万元背后，松延动力想做人形机器人赛道的小米和苹果",
     "date": "2026-10-01",
@@ -1722,6 +1768,36 @@
         "summary": "电商渠道信息显示，NOETIX 松延动力仿生人形机器人小诺在京东自营上架，活动售价 398,000 元，100% 参与投票的值友认为「值」。小诺定位高仿真情感交互机器人。",
         "reason": "仿生机器人明码标价上架主流电商，商业化进程的直接证据。",
         "collectedAt": "2026-09-29"
+      }
+    ]
+  },
+  {
+    "id": "realbotix-ask-aria-relaunch",
+    "title": "Realbotix 重新上线 Ask Aria 数字 AI 头像，采用 Echo 仿生机器人同款对话技术",
+    "date": "2026-10-28",
+    "heat": 80,
+    "reportCount": 1,
+    "sources": [
+      "Morningstar（Business Wire 通稿）"
+    ],
+    "companies": [
+      "realbotix"
+    ],
+    "items": [
+      {
+        "id": "2026-10-28-realbotix-ask-aria-relaunch-morningstar",
+        "date": "2026-10-28",
+        "source": "Morningstar（Business Wire 通稿）",
+        "sourceUrl": "https://www.morningstar.com/news/business-wire/20261028971304/realbotix-relaunched-ask-aria-digital-ai-avatar",
+        "score": 80,
+        "eventId": "realbotix-ask-aria-relaunch",
+        "companies": [
+          "realbotix"
+        ],
+        "title": "Realbotix 重新上线 Ask Aria 数字 AI 头像，采用 Echo 仿生机器人同款对话技术",
+        "summary": "历史补录：Realbotix 10 月 28 日通过 Business Wire 通稿宣布，重新上线交互式在线 AI 体验 Ask Aria。Ask Aria 是 AI 驱动的 3D 数字头像，现已在 Realbotix.com 官网开放体验。官方称驱动 Ask Aria 的对话技术与新发布的 Echo 仿生机器人产品线相同，升级版本增强了表情表现力与对话智能。",
+        "reason": "官方通稿：Echo 的会话能力以零门槛网页形态开放，是观察其情感交互水平的直接窗口。",
+        "collectedAt": "2026-10-31"
       }
     ]
   },
@@ -2882,36 +2958,6 @@
         "summary": "数字华夏官网发布：10 月 25 日晚，2026 全球开发者先锋大会暨国际具身智能技能大赛（GDPS 2026）闭幕仪式·福布斯颁奖晚宴在上海张江科学会堂举行，「2026 福布斯中国人机共生科技智能先锋评选」榜单揭晓，数字华夏新一代仿生机器人夏澜 R03 荣获「商业价值奖」。评选从技术创新、落地能力、市场潜力、产业价值等维度遴选标杆产品。夏澜 R03 依托自研情感计算引擎、高精度运动控制与全双工无唤醒交互，面向文旅、康养、公共服务、品牌 IP 运营等场景落地。公司已连续三年获评福布斯相关奖项，从星行侠 P01 的「人形机器人未来奖」到夏澜 R03 的「商业价值奖」。",
         "reason": "官方一手：权威商业评选给仿生机器人商业化路径盖章，是「能演示走向能交付」的标志性背书。",
         "collectedAt": "2026-10-30"
-      }
-    ]
-  },
-  {
-    "id": "ubtech-u1-first-delivery",
-    "title": "优必选 U1 正式开启交付：首批交付上海永达、北京波士与韩国 Galaxy 机器人乐园",
-    "date": "2026-10-21",
-    "heat": 70,
-    "reportCount": 1,
-    "sources": [
-      "汽车之家车家号（盖世汽车）"
-    ],
-    "companies": [
-      "ubtech"
-    ],
-    "items": [
-      {
-        "id": "2026-10-21-ubtech-u1-first-delivery-autohome",
-        "date": "2026-10-21",
-        "source": "汽车之家车家号（盖世汽车）",
-        "sourceUrl": "https://chejiahao.autohome.com.cn/info/26499557",
-        "score": 70,
-        "eventId": "ubtech-u1-first-delivery",
-        "companies": [
-          "ubtech"
-        ],
-        "title": "优必选 U1 正式开启交付：首批交付上海永达、北京波士与韩国 Galaxy 机器人乐园",
-        "summary": "盖世汽车一周要闻确认：优必选 U1 系列超仿生人形机器人正式开启交付，首批交付对象包括上海永达集团、北京波士集团和韩国 Galaxy 机器人乐园。该系列 6 月 30 日发布，U1 Lite 11.98 万元、Pro 16.98 万元、Ultra 男版 99 万元/女版 88 万元，88 个自由度，配备仿生皮肤、仿生颈椎与针对长期陪伴场景的情感大模型，官方称可识别 20 余种细粒度情绪；发布以来全渠道订单已突破 1.3 万台。",
-        "reason": "从概念发布到首批交付的关键节点，首批买家构成（经销商集团+海外机器人乐园）与此前「高价迎宾」的质疑互为印证。",
-        "collectedAt": "2026-10-23"
       }
     ]
   },

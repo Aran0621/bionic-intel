@@ -37,8 +37,23 @@
   },
   {
     "date": "2026-10-28",
-    "headline": "官方动态：夏澜 R03 荣膺 2026 福布斯「商业价值奖」，公司连续三年获福布斯奖项",
+    "headline": "Realbotix 重新上线 Ask Aria 数字 AI 头像，采用 Echo 仿生机器人同款对话技术",
     "picks": [
+      {
+        "id": "2026-10-28-realbotix-ask-aria-relaunch-morningstar",
+        "date": "2026-10-28",
+        "source": "Morningstar（Business Wire 通稿）",
+        "sourceUrl": "https://www.morningstar.com/news/business-wire/20261028971304/realbotix-relaunched-ask-aria-digital-ai-avatar",
+        "score": 80,
+        "eventId": "realbotix-ask-aria-relaunch",
+        "companies": [
+          "realbotix"
+        ],
+        "title": "Realbotix 重新上线 Ask Aria 数字 AI 头像，采用 Echo 仿生机器人同款对话技术",
+        "summary": "历史补录：Realbotix 10 月 28 日通过 Business Wire 通稿宣布，重新上线交互式在线 AI 体验 Ask Aria。Ask Aria 是 AI 驱动的 3D 数字头像，现已在 Realbotix.com 官网开放体验。官方称驱动 Ask Aria 的对话技术与新发布的 Echo 仿生机器人产品线相同，升级版本增强了表情表现力与对话智能。",
+        "reason": "官方通稿：Echo 的会话能力以零门槛网页形态开放，是观察其情感交互水平的直接窗口。",
+        "collectedAt": "2026-10-31"
+      },
       {
         "id": "2026-10-28-digit-forbes-award-official",
         "date": "2026-10-28",
@@ -55,8 +70,8 @@
         "collectedAt": "2026-10-30"
       }
     ],
-    "eventCount": 1,
-    "itemCount": 1
+    "eventCount": 2,
+    "itemCount": 2
   },
   {
     "date": "2026-10-27",
@@ -641,6 +656,21 @@
         "collectedAt": "2026-10-18"
       },
       {
+        "id": "2026-10-14-ubtech-u1-first-delivery-nfc",
+        "date": "2026-10-14",
+        "source": "同花顺财经（转南方财经）",
+        "sourceUrl": "http://news.10jqka.com.cn/20261014/c680697444.shtml",
+        "score": 78,
+        "eventId": "ubtech-u1-first-delivery",
+        "companies": [
+          "ubtech"
+        ],
+        "title": "实地探访：优必选 U1 已于 9 月小批量交付终端客户，四季度推「青春版」降门槛",
+        "summary": "历史补录：南方财经记者实地探访优必选，采访优必选首席品牌官焦继超后确认：优世界 U1 已于 9 月小批量交付终端客户，目前处于产能爬坡阶段，四季度将推出「青春版」进一步降低体验门槛。技术细节上，U1 的微表情由模型实时生成并直接驱动舵机，而非播放预设动作；训练采用分布式方案，数据留在本地、仅回传参数，兼顾隐私与迭代效率。焦继超称头部是交互入口，小型化舵机与散热设计是主要工程难点。",
+        "reason": "独家深度：实地探访加高管采访，给出 U1 交付节奏、产能与表情技术路线的一手细节。",
+        "collectedAt": "2026-10-31"
+      },
+      {
         "id": "2026-10-14-momoface-m1-launch-ifeng",
         "date": "2026-10-14",
         "source": "凤凰网河北",
@@ -654,8 +684,8 @@
         "collectedAt": "2026-10-25"
       }
     ],
-    "eventCount": 2,
-    "itemCount": 2
+    "eventCount": 3,
+    "itemCount": 3
   },
   {
     "date": "2026-10-03",

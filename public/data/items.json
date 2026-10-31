@@ -28,6 +28,21 @@
     "collectedAt": "2026-10-30"
   },
   {
+    "id": "2026-10-28-realbotix-ask-aria-relaunch-morningstar",
+    "date": "2026-10-28",
+    "source": "Morningstar（Business Wire 通稿）",
+    "sourceUrl": "https://www.morningstar.com/news/business-wire/20261028971304/realbotix-relaunched-ask-aria-digital-ai-avatar",
+    "score": 80,
+    "eventId": "realbotix-ask-aria-relaunch",
+    "companies": [
+      "realbotix"
+    ],
+    "title": "Realbotix 重新上线 Ask Aria 数字 AI 头像，采用 Echo 仿生机器人同款对话技术",
+    "summary": "历史补录：Realbotix 10 月 28 日通过 Business Wire 通稿宣布，重新上线交互式在线 AI 体验 Ask Aria。Ask Aria 是 AI 驱动的 3D 数字头像，现已在 Realbotix.com 官网开放体验。官方称驱动 Ask Aria 的对话技术与新发布的 Echo 仿生机器人产品线相同，升级版本增强了表情表现力与对话智能。",
+    "reason": "官方通稿：Echo 的会话能力以零门槛网页形态开放，是观察其情感交互水平的直接窗口。",
+    "collectedAt": "2026-10-31"
+  },
+  {
     "id": "2026-10-28-digit-forbes-award-official",
     "date": "2026-10-28",
     "source": "数字华夏官网（官方）",
@@ -531,6 +546,21 @@
     "summary": "10 月 13 日南方财经记者走进优必选深圳总部展厅，副总裁、具身智能与人形机器人研究院院长焦继超透露：U1 已于 9 月小批量交付至终端客户，首批用户已收货并给出真实反馈，工厂产能逐步爬坡，预计下半年交付加速；此外预计今年四季度推出「青春版」机型，进一步降低消费者购买门槛。记者现场看到 U1 面部覆盖柔性仿生硅胶皮肤，毛孔与皮肤纹理清晰可见，数十种微表情由模型实时生成并驱动舵机呈现，可随人的表情变化自主反应。上半年优必选总营收 12.7 亿元、同比增长 104.2%，全尺寸具身智能人形机器人收入同比增长 1445%。",
     "reason": "「交付罗生门」之后首个终端交付实锤，外加青春版降门槛路线图。",
     "collectedAt": "2026-10-18"
+  },
+  {
+    "id": "2026-10-14-ubtech-u1-first-delivery-nfc",
+    "date": "2026-10-14",
+    "source": "同花顺财经（转南方财经）",
+    "sourceUrl": "http://news.10jqka.com.cn/20261014/c680697444.shtml",
+    "score": 78,
+    "eventId": "ubtech-u1-first-delivery",
+    "companies": [
+      "ubtech"
+    ],
+    "title": "实地探访：优必选 U1 已于 9 月小批量交付终端客户，四季度推「青春版」降门槛",
+    "summary": "历史补录：南方财经记者实地探访优必选，采访优必选首席品牌官焦继超后确认：优世界 U1 已于 9 月小批量交付终端客户，目前处于产能爬坡阶段，四季度将推出「青春版」进一步降低体验门槛。技术细节上，U1 的微表情由模型实时生成并直接驱动舵机，而非播放预设动作；训练采用分布式方案，数据留在本地、仅回传参数，兼顾隐私与迭代效率。焦继超称头部是交互入口，小型化舵机与散热设计是主要工程难点。",
+    "reason": "独家深度：实地探访加高管采访，给出 U1 交付节奏、产能与表情技术路线的一手细节。",
+    "collectedAt": "2026-10-31"
   },
   {
     "id": "2026-10-14-momoface-m1-launch-ifeng",
