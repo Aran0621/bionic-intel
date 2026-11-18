@@ -222,6 +222,15 @@
     "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
     "timeline": [
       {
+        "id": "2026-11-11-ubtech-u1-yongda-order-thepaper",
+        "date": "2026-11-11",
+        "title": "优必选签下首个超仿生人大额订单：永达汽车首批采购 400 台 U1 Pro，年内交付",
+        "source": "澎湃新闻",
+        "sourceUrl": "https://www.thepaper.cn/newsDetail_forward_34455328",
+        "score": 80,
+        "eventId": "ubtech-u1-yongda-order"
+      },
+      {
         "id": "2026-10-29-ubtech-xinfenglong-uworld-10jqka",
         "date": "2026-10-29",
         "title": "同花顺：锋龙股份设新锋龙平台，将整合优必选优世界、优医疗等具身智能业务",
@@ -832,6 +841,15 @@
     "blurb": "清华系团队，N2 以 3.99 万低价+连续后空翻破圈，仿生命线「小诺」（32 面部自由度、铂金硅胶）曾登春晚；「小月」001 号京东首拍 11.08 万元。",
     "timeline": [
       {
+        "id": "2026-11-17-songyan-double11-sohu",
+        "date": "2026-11-17",
+        "title": "双 11 人形机器人首次有了独立榜单：松延动力小布米拿下京东销量销售额双第一，姜哲源要「补脑」",
+        "source": "搜狐财经（瑞财经）",
+        "sourceUrl": "https://m.sohu.com/a/1102606845_121071031",
+        "score": 64,
+        "eventId": "songyan-double11-2026"
+      },
+      {
         "id": "2026-10-27-noetix-hkex-ipo-thepaper",
         "date": "2026-10-27",
         "title": "澎湃/国际金融报：松延动力被传秘密递表港交所，拟募资数亿美元最快 2027 年挂牌",
@@ -984,6 +1002,15 @@
     ],
     "blurb": "「有温度的人形机器人」B 端路线代表：夏澜系列 29+ 主动自由度、自研情商模型与「巨号」交互平台，客户覆盖政务、银行、电网、央国企，成立一年揽 4 亿元订单。",
     "timeline": [
+      {
+        "id": "2026-11-10-digit-cdra-cdra",
+        "date": "2026-11-10",
+        "title": "历史补录：数字华夏正式加入中国机器人产业发展联盟，仿生线夏澜 R03 被列为旗舰",
+        "source": "中国机器人产业发展联盟官网",
+        "sourceUrl": "https://www.cdra.com.cn/news/57175",
+        "score": 50,
+        "eventId": "digit-cdra-2026"
+      },
       {
         "id": "2026-10-28-digit-forbes-award-official",
         "date": "2026-10-28",
@@ -1229,6 +1256,15 @@
     ],
     "blurb": "上市公司（TSX-V: XBOT），模块化换脸+可插自家 LLM 的开放路线；客户含爱立信 6G 演示、美国学区，CES 2026 完成两台机器人两小时无脚本对话。",
     "timeline": [
+      {
+        "id": "2026-11-04-realbotix-series1-yahoo",
+        "date": "2026-11-04",
+        "title": "历史补录：Realbotix 将 Echo 人形机器人产品线更名 Series 1，规避商标风险",
+        "source": "Yahoo Finance（Business Wire 官方稿）",
+        "sourceUrl": "https://finance.yahoo.com/technology/ai/articles/realbotix-rebrands-humanoid-robot-line-123000691.html",
+        "score": 58,
+        "eventId": "realbotix-series1-rebrand"
+      },
       {
         "id": "2026-10-28-realbotix-ask-aria-relaunch-morningstar",
         "date": "2026-10-28",
