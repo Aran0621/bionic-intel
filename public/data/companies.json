@@ -222,6 +222,15 @@
     "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
     "timeline": [
       {
+        "id": "2026-11-12-ubtech-u1-yongda-36kr-en",
+        "date": "2026-11-12",
+        "title": "36氪英文版质疑视角：0.66 港元「仙股」永达为何砸约 7000 万港元买 400 台优必选 U1 Pro",
+        "source": "36氪英文版",
+        "sourceUrl": "https://eu.36kr.com/en/p/4066444633265031",
+        "score": 66,
+        "eventId": "ubtech-u1-yongda-order"
+      },
+      {
         "id": "2026-11-11-ubtech-u1-yongda-order-thepaper",
         "date": "2026-11-11",
         "title": "优必选签下首个超仿生人大额订单：永达汽车首批采购 400 台 U1 Pro，年内交付",
