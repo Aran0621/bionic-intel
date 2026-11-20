@@ -222,6 +222,24 @@
     "blurb": "港股「人形机器人第一股」（9880.HK），2026 年 6 月以消费级品牌「优世界」切入情感陪伴：U1 系列 88 自由度、医用级硅胶皮肤、Resonance-LM 情感大模型，订单破 1.3 万台。",
     "timeline": [
       {
+        "id": "2026-11-19-ubtech-u1-delivery-sohu",
+        "date": "2026-11-19",
+        "title": "优必选的美女帅哥们，想进家门再等等：U1 交付落差与产能瓶颈复盘",
+        "source": "搜狐（AI蓝媒汇）",
+        "sourceUrl": "https://m.sohu.com/a/1103803340_121948396",
+        "score": 62,
+        "eventId": "ubtech-u1-delivery"
+      },
+      {
+        "id": "2026-11-18-ubtech-apec-2026-gkzhan",
+        "date": "2026-11-18",
+        "title": "APEC「湾区会客厅」：周剑称已联合日本、新加坡伙伴在超仿生机器人上做养老场景二次开发，U1 Pro 搭载 Resonance-LM 登场",
+        "source": "机器人网（gkzhan）",
+        "sourceUrl": "https://robot.gkzhan.com/news/197575.html",
+        "score": 72,
+        "eventId": "ubtech-apec-2026"
+      },
+      {
         "id": "2026-11-12-ubtech-u1-yongda-36kr-en",
         "date": "2026-11-12",
         "title": "36氪英文版质疑视角：0.66 港元「仙股」永达为何砸约 7000 万港元买 400 台优必选 U1 Pro",
@@ -850,6 +868,15 @@
     "blurb": "清华系团队，N2 以 3.99 万低价+连续后空翻破圈，仿生命线「小诺」（32 面部自由度、铂金硅胶）曾登春晚；「小月」001 号京东首拍 11.08 万元。",
     "timeline": [
       {
+        "id": "2026-11-19-noetix-ipo-hkex-ifengweekly",
+        "date": "2026-11-19",
+        "title": "松延动力被传递表港交所：双足机器人价格打到万元内，60 亿估值下万台交付待考",
+        "source": "凤凰WEEKLY财经",
+        "sourceUrl": "http://www.ifengweekly.com/detil.php?id=28401",
+        "score": 63,
+        "eventId": "noetix-ipo-hkex"
+      },
+      {
         "id": "2026-11-17-songyan-double11-sohu",
         "date": "2026-11-17",
         "title": "双 11 人形机器人首次有了独立榜单：松延动力小布米拿下京东销量销售额双第一，姜哲源要「补脑」",
@@ -1413,6 +1440,15 @@
     ],
     "blurb": "21 年表情机器人老兵：Ameca 以 25 个面部电机与 Tritium 云平台成为全球认知度最高的机器人面孔，部署 200+ 台于迪拜未来博物馆、Sphere 等，2024 年底完成 1000 万美元 A 轮。",
     "timeline": [
+      {
+        "id": "2026-11-16-ea-muse-wow-signal-nme",
+        "date": "2026-11-16",
+        "title": "Muse 巡演把 Ameca 搬上舞台：机器人参与演唱《Kill Or Be Killed》，欧洲巡演持续到 2027",
+        "source": "NME",
+        "sourceUrl": "https://www.nme.com/news/music/muse-the-o2-london-setlist-photos-footage-singing-ai-robot-3976084",
+        "score": 60,
+        "eventId": "ea-muse-wow-signal"
+      },
       {
         "id": "2026-06-22-ea-desktop-gen3-robozaps",
         "date": "2026-06-22",
